@@ -9,14 +9,14 @@ share shifts around three pivotal events of the current AI cycle:
 ChatGPT (2022-11-30), GPT-4 (2023-03-14), and the OpenAI board crisis
 (2023-11-17).
 
-**Live dashboards (AWS S3 static hosting):**
-http://hn-ai-discourse-public-2026.s3-website-us-east-1.amazonaws.com/
+**Live dashboards (GitHub Pages):**
+https://dreamsova.github.io/hn-ai-discourse-public/
 
-- [Monthly framing dashboard](http://hn-ai-discourse-public-2026.s3-website-us-east-1.amazonaws.com/hn-ai-discourse-dashboard.html) — 60 months of doomer / accelerationist / neutral shares with the three event markers.
-- [4-method ITS comparison](http://hn-ai-discourse-public-2026.s3-website-us-east-1.amazonaws.com/hn-ai-discourse-method-comparison.html) — same panel under four independent classifiers.
-- [411K-point semantic atlas](http://hn-ai-discourse-public-2026.s3-website-us-east-1.amazonaws.com/hn-ai-discourse-semantic-atlas.html) — UMAP + DataShader, coloured by BERTopic cluster.
-- [Topic activity by month](http://hn-ai-discourse-public-2026.s3-website-us-east-1.amazonaws.com/hn-ai-discourse-topic-by-month.html) — top BERTopic clusters as a stacked-area time series.
-- Static: [framework benchmark](http://hn-ai-discourse-public-2026.s3-website-us-east-1.amazonaws.com/framework_benchmark.png) · [gold-set confusion matrices](http://hn-ai-discourse-public-2026.s3-website-us-east-1.amazonaws.com/confusion_matrices.png).
+- [Monthly framing dashboard](https://dreamsova.github.io/hn-ai-discourse-public/deliverables/hn-ai-discourse-dashboard.html) — 60 months of doomer / accelerationist / neutral shares with the three event markers.
+- [4-method ITS comparison](https://dreamsova.github.io/hn-ai-discourse-public/deliverables/hn-ai-discourse-method-comparison.html) — same panel under four independent classifiers.
+- [411K-point semantic atlas](https://dreamsova.github.io/hn-ai-discourse-public/deliverables/hn-ai-discourse-semantic-atlas.html) — UMAP + DataShader, coloured by BERTopic cluster.
+- [Topic activity by month](https://dreamsova.github.io/hn-ai-discourse-public/deliverables/hn-ai-discourse-topic-by-month.html) — top BERTopic clusters as a stacked-area time series.
+- Static: [framework benchmark](https://dreamsova.github.io/hn-ai-discourse-public/deliverables/framework_benchmark.png) · [gold-set confusion matrices](https://dreamsova.github.io/hn-ai-discourse-public/deliverables/confusion_matrices.png).
 
 ---
 
