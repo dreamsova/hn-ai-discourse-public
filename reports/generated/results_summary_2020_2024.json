@@ -1,0 +1,39 @@
+{
+  "avg_monthly_comments": 6436.1,
+  "model": {
+    "accelerationist_f1": 0.5925925925925926,
+    "accuracy": 0.9110529758011773,
+    "class_counts": {
+      "accelerationist": 456,
+      "doomer": 644,
+      "neutral": 5015
+    },
+    "doomer_f1": 0.7222222222222222,
+    "evaluation_type": "held_out",
+    "macro_f1": 0.7544591994919781,
+    "n_docs": 6115,
+    "n_test": 1529,
+    "n_train": 4586,
+    "neutral_f1": 0.9485627836611196,
+    "weighted_f1": 0.8981890543128693
+  },
+  "n_months": 60,
+  "peak_accelerationist_month": "2022-01",
+  "peak_accelerationist_share": 0.0194916575705598,
+  "peak_doomer_month": "2023-05",
+  "peak_doomer_share": 0.0294661733615222,
+  "pre_post": {
+    "accelerationist_post": 0.00668256311858703,
+    "accelerationist_pre": 0.008208835669344487,
+    "doomer_post": 0.01729940828785198,
+    "doomer_pre": 0.012688515758682229,
+    "neutral_post": 0.4949771568813353,
+    "neutral_pre": 0.19340669753610698,
+    "non_ai_post": 0.4810408717122257,
+    "non_ai_pre": 0.7856959510358663,
+    "post_start": "2022-12"
+  },
+  "range_end": "2024-12",
+  "range_start": "2020-01",
+  "total_comments": 386166
+}

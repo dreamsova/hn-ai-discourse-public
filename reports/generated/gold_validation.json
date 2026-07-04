@@ -1,0 +1,182 @@
+{
+  "n_labeled_total": 200,
+  "n_evaluable_gold": 98,
+  "n_wrong_other": 102,
+  "wrong_other_share": 0.51,
+  "per_method": {
+    "Lexicon weak-label rule": {
+      "n_evaluable_for_method": 98,
+      "labels": [
+        "accelerationist",
+        "doomer",
+        "neutral"
+      ],
+      "classification_report": {
+        "accelerationist": {
+          "precision": 0.5,
+          "recall": 0.125,
+          "f1-score": 0.2,
+          "support": 8.0
+        },
+        "doomer": {
+          "precision": 0.4444444444444444,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.5853658536585366,
+          "support": 14.0
+        },
+        "neutral": {
+          "precision": 0.8985507246376812,
+          "recall": 0.8157894736842105,
+          "f1-score": 0.8551724137931035,
+          "support": 76.0
+        },
+        "accuracy": 0.7653061224489796,
+        "macro avg": {
+          "precision": 0.6143317230273752,
+          "recall": 0.5993107769423559,
+          "f1-score": 0.5468460891505468,
+          "support": 98.0
+        },
+        "weighted avg": {
+          "precision": 0.8011436458641427,
+          "recall": 0.7653061224489796,
+          "f1-score": 0.7631451571377079,
+          "support": 98.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          1,
+          2,
+          5
+        ],
+        [
+          0,
+          12,
+          2
+        ],
+        [
+          1,
+          13,
+          62
+        ]
+      ]
+    },
+    "TF-IDF + LR (baseline)": {
+      "n_evaluable_for_method": 98,
+      "labels": [
+        "accelerationist",
+        "doomer",
+        "neutral"
+      ],
+      "classification_report": {
+        "accelerationist": {
+          "precision": 0.5,
+          "recall": 0.125,
+          "f1-score": 0.2,
+          "support": 8.0
+        },
+        "doomer": {
+          "precision": 0.4,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.5128205128205128,
+          "support": 14.0
+        },
+        "neutral": {
+          "precision": 0.8732394366197183,
+          "recall": 0.8157894736842105,
+          "f1-score": 0.8435374149659864,
+          "support": 76.0
+        },
+        "accuracy": 0.7448979591836735,
+        "macro avg": {
+          "precision": 0.5910798122065728,
+          "recall": 0.5516917293233082,
+          "f1-score": 0.518785975928833,
+          "support": 98.0
+        },
+        "weighted avg": {
+          "precision": 0.775165277378557,
+          "recall": 0.7448979591836735,
+          "f1-score": 0.7437584767030831,
+          "support": 98.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          1,
+          2,
+          5
+        ],
+        [
+          0,
+          10,
+          4
+        ],
+        [
+          1,
+          13,
+          62
+        ]
+      ]
+    },
+    "Zero-shot DeBERTa-v3-large NLI": {
+      "n_evaluable_for_method": 98,
+      "labels": [
+        "accelerationist",
+        "doomer",
+        "neutral"
+      ],
+      "classification_report": {
+        "accelerationist": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 8.0
+        },
+        "doomer": {
+          "precision": 0.4,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.5128205128205128,
+          "support": 14.0
+        },
+        "neutral": {
+          "precision": 0.875,
+          "recall": 0.8289473684210527,
+          "f1-score": 0.8513513513513513,
+          "support": 76.0
+        },
+        "accuracy": 0.7448979591836735,
+        "macro avg": {
+          "precision": 0.425,
+          "recall": 0.5144110275689223,
+          "f1-score": 0.4547239547239547,
+          "support": 98.0
+        },
+        "weighted avg": {
+          "precision": 0.7357142857142857,
+          "recall": 0.7448979591836735,
+          "f1-score": 0.7334917334917335,
+          "support": 98.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          3,
+          5
+        ],
+        [
+          0,
+          10,
+          4
+        ],
+        [
+          1,
+          12,
+          63
+        ]
+      ]
+    }
+  }
+}

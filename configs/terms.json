@@ -1,0 +1,87 @@
+{
+  "query_families": {
+    "broad_ai": [
+      "artificial intelligence",
+      "machine learning",
+      "deep learning",
+      "neural network"
+    ],
+    "foundation_models": [
+      "gpt",
+      "llm",
+      "chatgpt",
+      "openai",
+      "claude",
+      "gemini"
+    ],
+    "doomer": [
+      "ai safety",
+      "alignment",
+      "misalignment",
+      "existential risk",
+      "x-risk",
+      "p(doom)"
+    ],
+    "accelerationist": [
+      "e/acc",
+      "accelerationism",
+      "techno-optimism",
+      "abundance agenda",
+      "abundance"
+    ]
+  },
+  "lexicons": {
+    "broad_ai": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "deep learning",
+      "neural network",
+      "neural nets",
+      "llm",
+      "llms",
+      "large language model",
+      "large language models",
+      "chatgpt",
+      "gpt-4",
+      "gpt4",
+      "gpt",
+      "openai",
+      "claude",
+      "gemini",
+      "frontier model",
+      "frontier models",
+      "agi"
+    ],
+    "doomer": [
+      "alignment",
+      "misalignment",
+      "ai safety",
+      "existential risk",
+      "x-risk",
+      "x risk",
+      "p(doom)",
+      "pdoom",
+      "catastrophic risk",
+      "takeoff risk",
+      "loss of control",
+      "superintelligence"
+    ],
+    "accelerationist": [
+      "e/acc",
+      "accelerationism",
+      "techno-optimism",
+      "techno optimism",
+      "abundance",
+      "abundance agenda",
+      "faster progress",
+      "ship it",
+      "move fast",
+      "deploy faster",
+      "innovation first",
+      "open-source llm",
+      "open source llm",
+      "productivity boom"
+    ]
+  }
+}

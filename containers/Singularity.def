@@ -1,0 +1,66 @@
+Bootstrap: docker
+From: python:3.12-slim
+
+%labels
+    Maintainer cynthiawu@uchicago.edu
+    Project hn-ai-discourse
+
+%post
+    apt-get update && apt-get install -y --no-install-recommends \
+        git ca-certificates curl \
+    && rm -rf /var/lib/apt/lists/*
+
+    pip install --no-cache-dir --upgrade pip wheel
+    # CPU-only torch (the image is for clean / aggregate / Spark steps;
+    # GPU jobs run via Midway's CUDA + the project venv, not this image).
+    pip install --no-cache-dir \
+        torch==2.5.1+cpu \
+        --index-url https://download.pytorch.org/whl/cpu
+
+    pip install --no-cache-dir \
+        pandas==2.2.3 \
+        numpy==2.0.2 \
+        pyarrow==18.1.0 \
+        scikit-learn==1.5.2 \
+        statsmodels==0.14.4 \
+        joblib==1.4.2 \
+        dask[distributed]==2024.10.0 \
+        dask-jobqueue==0.9.0 \
+        bokeh==3.6.2 \
+        umap-learn==0.5.7 \
+        hdbscan==0.8.39 \
+        sentence-transformers==5.5.1 \
+        transformers==4.46.3 \
+        bertopic==0.16.4 \
+        datashader==0.16.3 \
+        holoviews==1.20.0
+
+%environment
+    export PYTHONUNBUFFERED=1
+    export TOKENIZERS_PARALLELISM=false
+    export NUMBA_NUM_THREADS=8
+    export OMP_NUM_THREADS=8
+
+%runscript
+    exec python "$@"
+
+%help
+    Reproducibility container for the HN AI-discourse pipeline.
+
+    Build on Midway (where Apptainer/Singularity is available):
+        apptainer build hn-ai-discourse.sif containers/Singularity.def
+
+    Run a CPU step inside the image, e.g. aggregation:
+        apptainer exec hn-ai-discourse.sif \
+            python scripts/aggregate_monthly_v2.py \
+                --input-glob "data/inference/year=*/month=*/family=*/query=*/*.parquet" \
+                --predicted-col predicted_label \
+                --output-dir outputs/panel_tfidf
+
+    Notes:
+      - GPU steps (zero-shot inference, embedding, fine-tune) still
+        run via the project venv on Midway's gpu partition, not this
+        image, because the image is pinned to torch CPU wheels for
+        portability.
+      - The pinned versions match what the project venv was using at
+        the time of submission.

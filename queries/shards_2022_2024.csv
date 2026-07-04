@@ -1,0 +1,757 @@
+shard_id,year,month,family,query,query_slug,start_ts,end_ts,start_date,end_date
+broad_ai-2022-01-artificial-intelligence,2022,01,broad_ai,artificial intelligence,artificial-intelligence,1640995200,1643673600,2022-01-01,2022-02-01
+broad_ai-2022-01-machine-learning,2022,01,broad_ai,machine learning,machine-learning,1640995200,1643673600,2022-01-01,2022-02-01
+broad_ai-2022-01-deep-learning,2022,01,broad_ai,deep learning,deep-learning,1640995200,1643673600,2022-01-01,2022-02-01
+broad_ai-2022-01-neural-network,2022,01,broad_ai,neural network,neural-network,1640995200,1643673600,2022-01-01,2022-02-01
+foundation_models-2022-01-gpt,2022,01,foundation_models,gpt,gpt,1640995200,1643673600,2022-01-01,2022-02-01
+foundation_models-2022-01-llm,2022,01,foundation_models,llm,llm,1640995200,1643673600,2022-01-01,2022-02-01
+foundation_models-2022-01-chatgpt,2022,01,foundation_models,chatgpt,chatgpt,1640995200,1643673600,2022-01-01,2022-02-01
+foundation_models-2022-01-openai,2022,01,foundation_models,openai,openai,1640995200,1643673600,2022-01-01,2022-02-01
+foundation_models-2022-01-claude,2022,01,foundation_models,claude,claude,1640995200,1643673600,2022-01-01,2022-02-01
+foundation_models-2022-01-gemini,2022,01,foundation_models,gemini,gemini,1640995200,1643673600,2022-01-01,2022-02-01
+doomer-2022-01-ai-safety,2022,01,doomer,ai safety,ai-safety,1640995200,1643673600,2022-01-01,2022-02-01
+doomer-2022-01-alignment,2022,01,doomer,alignment,alignment,1640995200,1643673600,2022-01-01,2022-02-01
+doomer-2022-01-misalignment,2022,01,doomer,misalignment,misalignment,1640995200,1643673600,2022-01-01,2022-02-01
+doomer-2022-01-existential-risk,2022,01,doomer,existential risk,existential-risk,1640995200,1643673600,2022-01-01,2022-02-01
+doomer-2022-01-x-risk,2022,01,doomer,x-risk,x-risk,1640995200,1643673600,2022-01-01,2022-02-01
+doomer-2022-01-p-doom,2022,01,doomer,p(doom),p-doom,1640995200,1643673600,2022-01-01,2022-02-01
+accelerationist-2022-01-e-acc,2022,01,accelerationist,e/acc,e-acc,1640995200,1643673600,2022-01-01,2022-02-01
+accelerationist-2022-01-accelerationism,2022,01,accelerationist,accelerationism,accelerationism,1640995200,1643673600,2022-01-01,2022-02-01
+accelerationist-2022-01-techno-optimism,2022,01,accelerationist,techno-optimism,techno-optimism,1640995200,1643673600,2022-01-01,2022-02-01
+accelerationist-2022-01-abundance-agenda,2022,01,accelerationist,abundance agenda,abundance-agenda,1640995200,1643673600,2022-01-01,2022-02-01
+accelerationist-2022-01-abundance,2022,01,accelerationist,abundance,abundance,1640995200,1643673600,2022-01-01,2022-02-01
+broad_ai-2022-02-artificial-intelligence,2022,02,broad_ai,artificial intelligence,artificial-intelligence,1643673600,1646092800,2022-02-01,2022-03-01
+broad_ai-2022-02-machine-learning,2022,02,broad_ai,machine learning,machine-learning,1643673600,1646092800,2022-02-01,2022-03-01
+broad_ai-2022-02-deep-learning,2022,02,broad_ai,deep learning,deep-learning,1643673600,1646092800,2022-02-01,2022-03-01
+broad_ai-2022-02-neural-network,2022,02,broad_ai,neural network,neural-network,1643673600,1646092800,2022-02-01,2022-03-01
+foundation_models-2022-02-gpt,2022,02,foundation_models,gpt,gpt,1643673600,1646092800,2022-02-01,2022-03-01
+foundation_models-2022-02-llm,2022,02,foundation_models,llm,llm,1643673600,1646092800,2022-02-01,2022-03-01
+foundation_models-2022-02-chatgpt,2022,02,foundation_models,chatgpt,chatgpt,1643673600,1646092800,2022-02-01,2022-03-01
+foundation_models-2022-02-openai,2022,02,foundation_models,openai,openai,1643673600,1646092800,2022-02-01,2022-03-01
+foundation_models-2022-02-claude,2022,02,foundation_models,claude,claude,1643673600,1646092800,2022-02-01,2022-03-01
+foundation_models-2022-02-gemini,2022,02,foundation_models,gemini,gemini,1643673600,1646092800,2022-02-01,2022-03-01
+doomer-2022-02-ai-safety,2022,02,doomer,ai safety,ai-safety,1643673600,1646092800,2022-02-01,2022-03-01
+doomer-2022-02-alignment,2022,02,doomer,alignment,alignment,1643673600,1646092800,2022-02-01,2022-03-01
+doomer-2022-02-misalignment,2022,02,doomer,misalignment,misalignment,1643673600,1646092800,2022-02-01,2022-03-01
+doomer-2022-02-existential-risk,2022,02,doomer,existential risk,existential-risk,1643673600,1646092800,2022-02-01,2022-03-01
+doomer-2022-02-x-risk,2022,02,doomer,x-risk,x-risk,1643673600,1646092800,2022-02-01,2022-03-01
+doomer-2022-02-p-doom,2022,02,doomer,p(doom),p-doom,1643673600,1646092800,2022-02-01,2022-03-01
+accelerationist-2022-02-e-acc,2022,02,accelerationist,e/acc,e-acc,1643673600,1646092800,2022-02-01,2022-03-01
+accelerationist-2022-02-accelerationism,2022,02,accelerationist,accelerationism,accelerationism,1643673600,1646092800,2022-02-01,2022-03-01
+accelerationist-2022-02-techno-optimism,2022,02,accelerationist,techno-optimism,techno-optimism,1643673600,1646092800,2022-02-01,2022-03-01
+accelerationist-2022-02-abundance-agenda,2022,02,accelerationist,abundance agenda,abundance-agenda,1643673600,1646092800,2022-02-01,2022-03-01
+accelerationist-2022-02-abundance,2022,02,accelerationist,abundance,abundance,1643673600,1646092800,2022-02-01,2022-03-01
+broad_ai-2022-03-artificial-intelligence,2022,03,broad_ai,artificial intelligence,artificial-intelligence,1646092800,1648771200,2022-03-01,2022-04-01
+broad_ai-2022-03-machine-learning,2022,03,broad_ai,machine learning,machine-learning,1646092800,1648771200,2022-03-01,2022-04-01
+broad_ai-2022-03-deep-learning,2022,03,broad_ai,deep learning,deep-learning,1646092800,1648771200,2022-03-01,2022-04-01
+broad_ai-2022-03-neural-network,2022,03,broad_ai,neural network,neural-network,1646092800,1648771200,2022-03-01,2022-04-01
+foundation_models-2022-03-gpt,2022,03,foundation_models,gpt,gpt,1646092800,1648771200,2022-03-01,2022-04-01
+foundation_models-2022-03-llm,2022,03,foundation_models,llm,llm,1646092800,1648771200,2022-03-01,2022-04-01
+foundation_models-2022-03-chatgpt,2022,03,foundation_models,chatgpt,chatgpt,1646092800,1648771200,2022-03-01,2022-04-01
+foundation_models-2022-03-openai,2022,03,foundation_models,openai,openai,1646092800,1648771200,2022-03-01,2022-04-01
+foundation_models-2022-03-claude,2022,03,foundation_models,claude,claude,1646092800,1648771200,2022-03-01,2022-04-01
+foundation_models-2022-03-gemini,2022,03,foundation_models,gemini,gemini,1646092800,1648771200,2022-03-01,2022-04-01
+doomer-2022-03-ai-safety,2022,03,doomer,ai safety,ai-safety,1646092800,1648771200,2022-03-01,2022-04-01
+doomer-2022-03-alignment,2022,03,doomer,alignment,alignment,1646092800,1648771200,2022-03-01,2022-04-01
+doomer-2022-03-misalignment,2022,03,doomer,misalignment,misalignment,1646092800,1648771200,2022-03-01,2022-04-01
+doomer-2022-03-existential-risk,2022,03,doomer,existential risk,existential-risk,1646092800,1648771200,2022-03-01,2022-04-01
+doomer-2022-03-x-risk,2022,03,doomer,x-risk,x-risk,1646092800,1648771200,2022-03-01,2022-04-01
+doomer-2022-03-p-doom,2022,03,doomer,p(doom),p-doom,1646092800,1648771200,2022-03-01,2022-04-01
+accelerationist-2022-03-e-acc,2022,03,accelerationist,e/acc,e-acc,1646092800,1648771200,2022-03-01,2022-04-01
+accelerationist-2022-03-accelerationism,2022,03,accelerationist,accelerationism,accelerationism,1646092800,1648771200,2022-03-01,2022-04-01
+accelerationist-2022-03-techno-optimism,2022,03,accelerationist,techno-optimism,techno-optimism,1646092800,1648771200,2022-03-01,2022-04-01
+accelerationist-2022-03-abundance-agenda,2022,03,accelerationist,abundance agenda,abundance-agenda,1646092800,1648771200,2022-03-01,2022-04-01
+accelerationist-2022-03-abundance,2022,03,accelerationist,abundance,abundance,1646092800,1648771200,2022-03-01,2022-04-01
+broad_ai-2022-04-artificial-intelligence,2022,04,broad_ai,artificial intelligence,artificial-intelligence,1648771200,1651363200,2022-04-01,2022-05-01
+broad_ai-2022-04-machine-learning,2022,04,broad_ai,machine learning,machine-learning,1648771200,1651363200,2022-04-01,2022-05-01
+broad_ai-2022-04-deep-learning,2022,04,broad_ai,deep learning,deep-learning,1648771200,1651363200,2022-04-01,2022-05-01
+broad_ai-2022-04-neural-network,2022,04,broad_ai,neural network,neural-network,1648771200,1651363200,2022-04-01,2022-05-01
+foundation_models-2022-04-gpt,2022,04,foundation_models,gpt,gpt,1648771200,1651363200,2022-04-01,2022-05-01
+foundation_models-2022-04-llm,2022,04,foundation_models,llm,llm,1648771200,1651363200,2022-04-01,2022-05-01
+foundation_models-2022-04-chatgpt,2022,04,foundation_models,chatgpt,chatgpt,1648771200,1651363200,2022-04-01,2022-05-01
+foundation_models-2022-04-openai,2022,04,foundation_models,openai,openai,1648771200,1651363200,2022-04-01,2022-05-01
+foundation_models-2022-04-claude,2022,04,foundation_models,claude,claude,1648771200,1651363200,2022-04-01,2022-05-01
+foundation_models-2022-04-gemini,2022,04,foundation_models,gemini,gemini,1648771200,1651363200,2022-04-01,2022-05-01
+doomer-2022-04-ai-safety,2022,04,doomer,ai safety,ai-safety,1648771200,1651363200,2022-04-01,2022-05-01
+doomer-2022-04-alignment,2022,04,doomer,alignment,alignment,1648771200,1651363200,2022-04-01,2022-05-01
+doomer-2022-04-misalignment,2022,04,doomer,misalignment,misalignment,1648771200,1651363200,2022-04-01,2022-05-01
+doomer-2022-04-existential-risk,2022,04,doomer,existential risk,existential-risk,1648771200,1651363200,2022-04-01,2022-05-01
+doomer-2022-04-x-risk,2022,04,doomer,x-risk,x-risk,1648771200,1651363200,2022-04-01,2022-05-01
+doomer-2022-04-p-doom,2022,04,doomer,p(doom),p-doom,1648771200,1651363200,2022-04-01,2022-05-01
+accelerationist-2022-04-e-acc,2022,04,accelerationist,e/acc,e-acc,1648771200,1651363200,2022-04-01,2022-05-01
+accelerationist-2022-04-accelerationism,2022,04,accelerationist,accelerationism,accelerationism,1648771200,1651363200,2022-04-01,2022-05-01
+accelerationist-2022-04-techno-optimism,2022,04,accelerationist,techno-optimism,techno-optimism,1648771200,1651363200,2022-04-01,2022-05-01
+accelerationist-2022-04-abundance-agenda,2022,04,accelerationist,abundance agenda,abundance-agenda,1648771200,1651363200,2022-04-01,2022-05-01
+accelerationist-2022-04-abundance,2022,04,accelerationist,abundance,abundance,1648771200,1651363200,2022-04-01,2022-05-01
+broad_ai-2022-05-artificial-intelligence,2022,05,broad_ai,artificial intelligence,artificial-intelligence,1651363200,1654041600,2022-05-01,2022-06-01
+broad_ai-2022-05-machine-learning,2022,05,broad_ai,machine learning,machine-learning,1651363200,1654041600,2022-05-01,2022-06-01
+broad_ai-2022-05-deep-learning,2022,05,broad_ai,deep learning,deep-learning,1651363200,1654041600,2022-05-01,2022-06-01
+broad_ai-2022-05-neural-network,2022,05,broad_ai,neural network,neural-network,1651363200,1654041600,2022-05-01,2022-06-01
+foundation_models-2022-05-gpt,2022,05,foundation_models,gpt,gpt,1651363200,1654041600,2022-05-01,2022-06-01
+foundation_models-2022-05-llm,2022,05,foundation_models,llm,llm,1651363200,1654041600,2022-05-01,2022-06-01
+foundation_models-2022-05-chatgpt,2022,05,foundation_models,chatgpt,chatgpt,1651363200,1654041600,2022-05-01,2022-06-01
+foundation_models-2022-05-openai,2022,05,foundation_models,openai,openai,1651363200,1654041600,2022-05-01,2022-06-01
+foundation_models-2022-05-claude,2022,05,foundation_models,claude,claude,1651363200,1654041600,2022-05-01,2022-06-01
+foundation_models-2022-05-gemini,2022,05,foundation_models,gemini,gemini,1651363200,1654041600,2022-05-01,2022-06-01
+doomer-2022-05-ai-safety,2022,05,doomer,ai safety,ai-safety,1651363200,1654041600,2022-05-01,2022-06-01
+doomer-2022-05-alignment,2022,05,doomer,alignment,alignment,1651363200,1654041600,2022-05-01,2022-06-01
+doomer-2022-05-misalignment,2022,05,doomer,misalignment,misalignment,1651363200,1654041600,2022-05-01,2022-06-01
+doomer-2022-05-existential-risk,2022,05,doomer,existential risk,existential-risk,1651363200,1654041600,2022-05-01,2022-06-01
+doomer-2022-05-x-risk,2022,05,doomer,x-risk,x-risk,1651363200,1654041600,2022-05-01,2022-06-01
+doomer-2022-05-p-doom,2022,05,doomer,p(doom),p-doom,1651363200,1654041600,2022-05-01,2022-06-01
+accelerationist-2022-05-e-acc,2022,05,accelerationist,e/acc,e-acc,1651363200,1654041600,2022-05-01,2022-06-01
+accelerationist-2022-05-accelerationism,2022,05,accelerationist,accelerationism,accelerationism,1651363200,1654041600,2022-05-01,2022-06-01
+accelerationist-2022-05-techno-optimism,2022,05,accelerationist,techno-optimism,techno-optimism,1651363200,1654041600,2022-05-01,2022-06-01
+accelerationist-2022-05-abundance-agenda,2022,05,accelerationist,abundance agenda,abundance-agenda,1651363200,1654041600,2022-05-01,2022-06-01
+accelerationist-2022-05-abundance,2022,05,accelerationist,abundance,abundance,1651363200,1654041600,2022-05-01,2022-06-01
+broad_ai-2022-06-artificial-intelligence,2022,06,broad_ai,artificial intelligence,artificial-intelligence,1654041600,1656633600,2022-06-01,2022-07-01
+broad_ai-2022-06-machine-learning,2022,06,broad_ai,machine learning,machine-learning,1654041600,1656633600,2022-06-01,2022-07-01
+broad_ai-2022-06-deep-learning,2022,06,broad_ai,deep learning,deep-learning,1654041600,1656633600,2022-06-01,2022-07-01
+broad_ai-2022-06-neural-network,2022,06,broad_ai,neural network,neural-network,1654041600,1656633600,2022-06-01,2022-07-01
+foundation_models-2022-06-gpt,2022,06,foundation_models,gpt,gpt,1654041600,1656633600,2022-06-01,2022-07-01
+foundation_models-2022-06-llm,2022,06,foundation_models,llm,llm,1654041600,1656633600,2022-06-01,2022-07-01
+foundation_models-2022-06-chatgpt,2022,06,foundation_models,chatgpt,chatgpt,1654041600,1656633600,2022-06-01,2022-07-01
+foundation_models-2022-06-openai,2022,06,foundation_models,openai,openai,1654041600,1656633600,2022-06-01,2022-07-01
+foundation_models-2022-06-claude,2022,06,foundation_models,claude,claude,1654041600,1656633600,2022-06-01,2022-07-01
+foundation_models-2022-06-gemini,2022,06,foundation_models,gemini,gemini,1654041600,1656633600,2022-06-01,2022-07-01
+doomer-2022-06-ai-safety,2022,06,doomer,ai safety,ai-safety,1654041600,1656633600,2022-06-01,2022-07-01
+doomer-2022-06-alignment,2022,06,doomer,alignment,alignment,1654041600,1656633600,2022-06-01,2022-07-01
+doomer-2022-06-misalignment,2022,06,doomer,misalignment,misalignment,1654041600,1656633600,2022-06-01,2022-07-01
+doomer-2022-06-existential-risk,2022,06,doomer,existential risk,existential-risk,1654041600,1656633600,2022-06-01,2022-07-01
+doomer-2022-06-x-risk,2022,06,doomer,x-risk,x-risk,1654041600,1656633600,2022-06-01,2022-07-01
+doomer-2022-06-p-doom,2022,06,doomer,p(doom),p-doom,1654041600,1656633600,2022-06-01,2022-07-01
+accelerationist-2022-06-e-acc,2022,06,accelerationist,e/acc,e-acc,1654041600,1656633600,2022-06-01,2022-07-01
+accelerationist-2022-06-accelerationism,2022,06,accelerationist,accelerationism,accelerationism,1654041600,1656633600,2022-06-01,2022-07-01
+accelerationist-2022-06-techno-optimism,2022,06,accelerationist,techno-optimism,techno-optimism,1654041600,1656633600,2022-06-01,2022-07-01
+accelerationist-2022-06-abundance-agenda,2022,06,accelerationist,abundance agenda,abundance-agenda,1654041600,1656633600,2022-06-01,2022-07-01
+accelerationist-2022-06-abundance,2022,06,accelerationist,abundance,abundance,1654041600,1656633600,2022-06-01,2022-07-01
+broad_ai-2022-07-artificial-intelligence,2022,07,broad_ai,artificial intelligence,artificial-intelligence,1656633600,1659312000,2022-07-01,2022-08-01
+broad_ai-2022-07-machine-learning,2022,07,broad_ai,machine learning,machine-learning,1656633600,1659312000,2022-07-01,2022-08-01
+broad_ai-2022-07-deep-learning,2022,07,broad_ai,deep learning,deep-learning,1656633600,1659312000,2022-07-01,2022-08-01
+broad_ai-2022-07-neural-network,2022,07,broad_ai,neural network,neural-network,1656633600,1659312000,2022-07-01,2022-08-01
+foundation_models-2022-07-gpt,2022,07,foundation_models,gpt,gpt,1656633600,1659312000,2022-07-01,2022-08-01
+foundation_models-2022-07-llm,2022,07,foundation_models,llm,llm,1656633600,1659312000,2022-07-01,2022-08-01
+foundation_models-2022-07-chatgpt,2022,07,foundation_models,chatgpt,chatgpt,1656633600,1659312000,2022-07-01,2022-08-01
+foundation_models-2022-07-openai,2022,07,foundation_models,openai,openai,1656633600,1659312000,2022-07-01,2022-08-01
+foundation_models-2022-07-claude,2022,07,foundation_models,claude,claude,1656633600,1659312000,2022-07-01,2022-08-01
+foundation_models-2022-07-gemini,2022,07,foundation_models,gemini,gemini,1656633600,1659312000,2022-07-01,2022-08-01
+doomer-2022-07-ai-safety,2022,07,doomer,ai safety,ai-safety,1656633600,1659312000,2022-07-01,2022-08-01
+doomer-2022-07-alignment,2022,07,doomer,alignment,alignment,1656633600,1659312000,2022-07-01,2022-08-01
+doomer-2022-07-misalignment,2022,07,doomer,misalignment,misalignment,1656633600,1659312000,2022-07-01,2022-08-01
+doomer-2022-07-existential-risk,2022,07,doomer,existential risk,existential-risk,1656633600,1659312000,2022-07-01,2022-08-01
+doomer-2022-07-x-risk,2022,07,doomer,x-risk,x-risk,1656633600,1659312000,2022-07-01,2022-08-01
+doomer-2022-07-p-doom,2022,07,doomer,p(doom),p-doom,1656633600,1659312000,2022-07-01,2022-08-01
+accelerationist-2022-07-e-acc,2022,07,accelerationist,e/acc,e-acc,1656633600,1659312000,2022-07-01,2022-08-01
+accelerationist-2022-07-accelerationism,2022,07,accelerationist,accelerationism,accelerationism,1656633600,1659312000,2022-07-01,2022-08-01
+accelerationist-2022-07-techno-optimism,2022,07,accelerationist,techno-optimism,techno-optimism,1656633600,1659312000,2022-07-01,2022-08-01
+accelerationist-2022-07-abundance-agenda,2022,07,accelerationist,abundance agenda,abundance-agenda,1656633600,1659312000,2022-07-01,2022-08-01
+accelerationist-2022-07-abundance,2022,07,accelerationist,abundance,abundance,1656633600,1659312000,2022-07-01,2022-08-01
+broad_ai-2022-08-artificial-intelligence,2022,08,broad_ai,artificial intelligence,artificial-intelligence,1659312000,1661990400,2022-08-01,2022-09-01
+broad_ai-2022-08-machine-learning,2022,08,broad_ai,machine learning,machine-learning,1659312000,1661990400,2022-08-01,2022-09-01
+broad_ai-2022-08-deep-learning,2022,08,broad_ai,deep learning,deep-learning,1659312000,1661990400,2022-08-01,2022-09-01
+broad_ai-2022-08-neural-network,2022,08,broad_ai,neural network,neural-network,1659312000,1661990400,2022-08-01,2022-09-01
+foundation_models-2022-08-gpt,2022,08,foundation_models,gpt,gpt,1659312000,1661990400,2022-08-01,2022-09-01
+foundation_models-2022-08-llm,2022,08,foundation_models,llm,llm,1659312000,1661990400,2022-08-01,2022-09-01
+foundation_models-2022-08-chatgpt,2022,08,foundation_models,chatgpt,chatgpt,1659312000,1661990400,2022-08-01,2022-09-01
+foundation_models-2022-08-openai,2022,08,foundation_models,openai,openai,1659312000,1661990400,2022-08-01,2022-09-01
+foundation_models-2022-08-claude,2022,08,foundation_models,claude,claude,1659312000,1661990400,2022-08-01,2022-09-01
+foundation_models-2022-08-gemini,2022,08,foundation_models,gemini,gemini,1659312000,1661990400,2022-08-01,2022-09-01
+doomer-2022-08-ai-safety,2022,08,doomer,ai safety,ai-safety,1659312000,1661990400,2022-08-01,2022-09-01
+doomer-2022-08-alignment,2022,08,doomer,alignment,alignment,1659312000,1661990400,2022-08-01,2022-09-01
+doomer-2022-08-misalignment,2022,08,doomer,misalignment,misalignment,1659312000,1661990400,2022-08-01,2022-09-01
+doomer-2022-08-existential-risk,2022,08,doomer,existential risk,existential-risk,1659312000,1661990400,2022-08-01,2022-09-01
+doomer-2022-08-x-risk,2022,08,doomer,x-risk,x-risk,1659312000,1661990400,2022-08-01,2022-09-01
+doomer-2022-08-p-doom,2022,08,doomer,p(doom),p-doom,1659312000,1661990400,2022-08-01,2022-09-01
+accelerationist-2022-08-e-acc,2022,08,accelerationist,e/acc,e-acc,1659312000,1661990400,2022-08-01,2022-09-01
+accelerationist-2022-08-accelerationism,2022,08,accelerationist,accelerationism,accelerationism,1659312000,1661990400,2022-08-01,2022-09-01
+accelerationist-2022-08-techno-optimism,2022,08,accelerationist,techno-optimism,techno-optimism,1659312000,1661990400,2022-08-01,2022-09-01
+accelerationist-2022-08-abundance-agenda,2022,08,accelerationist,abundance agenda,abundance-agenda,1659312000,1661990400,2022-08-01,2022-09-01
+accelerationist-2022-08-abundance,2022,08,accelerationist,abundance,abundance,1659312000,1661990400,2022-08-01,2022-09-01
+broad_ai-2022-09-artificial-intelligence,2022,09,broad_ai,artificial intelligence,artificial-intelligence,1661990400,1664582400,2022-09-01,2022-10-01
+broad_ai-2022-09-machine-learning,2022,09,broad_ai,machine learning,machine-learning,1661990400,1664582400,2022-09-01,2022-10-01
+broad_ai-2022-09-deep-learning,2022,09,broad_ai,deep learning,deep-learning,1661990400,1664582400,2022-09-01,2022-10-01
+broad_ai-2022-09-neural-network,2022,09,broad_ai,neural network,neural-network,1661990400,1664582400,2022-09-01,2022-10-01
+foundation_models-2022-09-gpt,2022,09,foundation_models,gpt,gpt,1661990400,1664582400,2022-09-01,2022-10-01
+foundation_models-2022-09-llm,2022,09,foundation_models,llm,llm,1661990400,1664582400,2022-09-01,2022-10-01
+foundation_models-2022-09-chatgpt,2022,09,foundation_models,chatgpt,chatgpt,1661990400,1664582400,2022-09-01,2022-10-01
+foundation_models-2022-09-openai,2022,09,foundation_models,openai,openai,1661990400,1664582400,2022-09-01,2022-10-01
+foundation_models-2022-09-claude,2022,09,foundation_models,claude,claude,1661990400,1664582400,2022-09-01,2022-10-01
+foundation_models-2022-09-gemini,2022,09,foundation_models,gemini,gemini,1661990400,1664582400,2022-09-01,2022-10-01
+doomer-2022-09-ai-safety,2022,09,doomer,ai safety,ai-safety,1661990400,1664582400,2022-09-01,2022-10-01
+doomer-2022-09-alignment,2022,09,doomer,alignment,alignment,1661990400,1664582400,2022-09-01,2022-10-01
+doomer-2022-09-misalignment,2022,09,doomer,misalignment,misalignment,1661990400,1664582400,2022-09-01,2022-10-01
+doomer-2022-09-existential-risk,2022,09,doomer,existential risk,existential-risk,1661990400,1664582400,2022-09-01,2022-10-01
+doomer-2022-09-x-risk,2022,09,doomer,x-risk,x-risk,1661990400,1664582400,2022-09-01,2022-10-01
+doomer-2022-09-p-doom,2022,09,doomer,p(doom),p-doom,1661990400,1664582400,2022-09-01,2022-10-01
+accelerationist-2022-09-e-acc,2022,09,accelerationist,e/acc,e-acc,1661990400,1664582400,2022-09-01,2022-10-01
+accelerationist-2022-09-accelerationism,2022,09,accelerationist,accelerationism,accelerationism,1661990400,1664582400,2022-09-01,2022-10-01
+accelerationist-2022-09-techno-optimism,2022,09,accelerationist,techno-optimism,techno-optimism,1661990400,1664582400,2022-09-01,2022-10-01
+accelerationist-2022-09-abundance-agenda,2022,09,accelerationist,abundance agenda,abundance-agenda,1661990400,1664582400,2022-09-01,2022-10-01
+accelerationist-2022-09-abundance,2022,09,accelerationist,abundance,abundance,1661990400,1664582400,2022-09-01,2022-10-01
+broad_ai-2022-10-artificial-intelligence,2022,10,broad_ai,artificial intelligence,artificial-intelligence,1664582400,1667260800,2022-10-01,2022-11-01
+broad_ai-2022-10-machine-learning,2022,10,broad_ai,machine learning,machine-learning,1664582400,1667260800,2022-10-01,2022-11-01
+broad_ai-2022-10-deep-learning,2022,10,broad_ai,deep learning,deep-learning,1664582400,1667260800,2022-10-01,2022-11-01
+broad_ai-2022-10-neural-network,2022,10,broad_ai,neural network,neural-network,1664582400,1667260800,2022-10-01,2022-11-01
+foundation_models-2022-10-gpt,2022,10,foundation_models,gpt,gpt,1664582400,1667260800,2022-10-01,2022-11-01
+foundation_models-2022-10-llm,2022,10,foundation_models,llm,llm,1664582400,1667260800,2022-10-01,2022-11-01
+foundation_models-2022-10-chatgpt,2022,10,foundation_models,chatgpt,chatgpt,1664582400,1667260800,2022-10-01,2022-11-01
+foundation_models-2022-10-openai,2022,10,foundation_models,openai,openai,1664582400,1667260800,2022-10-01,2022-11-01
+foundation_models-2022-10-claude,2022,10,foundation_models,claude,claude,1664582400,1667260800,2022-10-01,2022-11-01
+foundation_models-2022-10-gemini,2022,10,foundation_models,gemini,gemini,1664582400,1667260800,2022-10-01,2022-11-01
+doomer-2022-10-ai-safety,2022,10,doomer,ai safety,ai-safety,1664582400,1667260800,2022-10-01,2022-11-01
+doomer-2022-10-alignment,2022,10,doomer,alignment,alignment,1664582400,1667260800,2022-10-01,2022-11-01
+doomer-2022-10-misalignment,2022,10,doomer,misalignment,misalignment,1664582400,1667260800,2022-10-01,2022-11-01
+doomer-2022-10-existential-risk,2022,10,doomer,existential risk,existential-risk,1664582400,1667260800,2022-10-01,2022-11-01
+doomer-2022-10-x-risk,2022,10,doomer,x-risk,x-risk,1664582400,1667260800,2022-10-01,2022-11-01
+doomer-2022-10-p-doom,2022,10,doomer,p(doom),p-doom,1664582400,1667260800,2022-10-01,2022-11-01
+accelerationist-2022-10-e-acc,2022,10,accelerationist,e/acc,e-acc,1664582400,1667260800,2022-10-01,2022-11-01
+accelerationist-2022-10-accelerationism,2022,10,accelerationist,accelerationism,accelerationism,1664582400,1667260800,2022-10-01,2022-11-01
+accelerationist-2022-10-techno-optimism,2022,10,accelerationist,techno-optimism,techno-optimism,1664582400,1667260800,2022-10-01,2022-11-01
+accelerationist-2022-10-abundance-agenda,2022,10,accelerationist,abundance agenda,abundance-agenda,1664582400,1667260800,2022-10-01,2022-11-01
+accelerationist-2022-10-abundance,2022,10,accelerationist,abundance,abundance,1664582400,1667260800,2022-10-01,2022-11-01
+broad_ai-2022-11-artificial-intelligence,2022,11,broad_ai,artificial intelligence,artificial-intelligence,1667260800,1669852800,2022-11-01,2022-12-01
+broad_ai-2022-11-machine-learning,2022,11,broad_ai,machine learning,machine-learning,1667260800,1669852800,2022-11-01,2022-12-01
+broad_ai-2022-11-deep-learning,2022,11,broad_ai,deep learning,deep-learning,1667260800,1669852800,2022-11-01,2022-12-01
+broad_ai-2022-11-neural-network,2022,11,broad_ai,neural network,neural-network,1667260800,1669852800,2022-11-01,2022-12-01
+foundation_models-2022-11-gpt,2022,11,foundation_models,gpt,gpt,1667260800,1669852800,2022-11-01,2022-12-01
+foundation_models-2022-11-llm,2022,11,foundation_models,llm,llm,1667260800,1669852800,2022-11-01,2022-12-01
+foundation_models-2022-11-chatgpt,2022,11,foundation_models,chatgpt,chatgpt,1667260800,1669852800,2022-11-01,2022-12-01
+foundation_models-2022-11-openai,2022,11,foundation_models,openai,openai,1667260800,1669852800,2022-11-01,2022-12-01
+foundation_models-2022-11-claude,2022,11,foundation_models,claude,claude,1667260800,1669852800,2022-11-01,2022-12-01
+foundation_models-2022-11-gemini,2022,11,foundation_models,gemini,gemini,1667260800,1669852800,2022-11-01,2022-12-01
+doomer-2022-11-ai-safety,2022,11,doomer,ai safety,ai-safety,1667260800,1669852800,2022-11-01,2022-12-01
+doomer-2022-11-alignment,2022,11,doomer,alignment,alignment,1667260800,1669852800,2022-11-01,2022-12-01
+doomer-2022-11-misalignment,2022,11,doomer,misalignment,misalignment,1667260800,1669852800,2022-11-01,2022-12-01
+doomer-2022-11-existential-risk,2022,11,doomer,existential risk,existential-risk,1667260800,1669852800,2022-11-01,2022-12-01
+doomer-2022-11-x-risk,2022,11,doomer,x-risk,x-risk,1667260800,1669852800,2022-11-01,2022-12-01
+doomer-2022-11-p-doom,2022,11,doomer,p(doom),p-doom,1667260800,1669852800,2022-11-01,2022-12-01
+accelerationist-2022-11-e-acc,2022,11,accelerationist,e/acc,e-acc,1667260800,1669852800,2022-11-01,2022-12-01
+accelerationist-2022-11-accelerationism,2022,11,accelerationist,accelerationism,accelerationism,1667260800,1669852800,2022-11-01,2022-12-01
+accelerationist-2022-11-techno-optimism,2022,11,accelerationist,techno-optimism,techno-optimism,1667260800,1669852800,2022-11-01,2022-12-01
+accelerationist-2022-11-abundance-agenda,2022,11,accelerationist,abundance agenda,abundance-agenda,1667260800,1669852800,2022-11-01,2022-12-01
+accelerationist-2022-11-abundance,2022,11,accelerationist,abundance,abundance,1667260800,1669852800,2022-11-01,2022-12-01
+broad_ai-2022-12-artificial-intelligence,2022,12,broad_ai,artificial intelligence,artificial-intelligence,1669852800,1672531200,2022-12-01,2023-01-01
+broad_ai-2022-12-machine-learning,2022,12,broad_ai,machine learning,machine-learning,1669852800,1672531200,2022-12-01,2023-01-01
+broad_ai-2022-12-deep-learning,2022,12,broad_ai,deep learning,deep-learning,1669852800,1672531200,2022-12-01,2023-01-01
+broad_ai-2022-12-neural-network,2022,12,broad_ai,neural network,neural-network,1669852800,1672531200,2022-12-01,2023-01-01
+foundation_models-2022-12-gpt,2022,12,foundation_models,gpt,gpt,1669852800,1672531200,2022-12-01,2023-01-01
+foundation_models-2022-12-llm,2022,12,foundation_models,llm,llm,1669852800,1672531200,2022-12-01,2023-01-01
+foundation_models-2022-12-chatgpt,2022,12,foundation_models,chatgpt,chatgpt,1669852800,1672531200,2022-12-01,2023-01-01
+foundation_models-2022-12-openai,2022,12,foundation_models,openai,openai,1669852800,1672531200,2022-12-01,2023-01-01
+foundation_models-2022-12-claude,2022,12,foundation_models,claude,claude,1669852800,1672531200,2022-12-01,2023-01-01
+foundation_models-2022-12-gemini,2022,12,foundation_models,gemini,gemini,1669852800,1672531200,2022-12-01,2023-01-01
+doomer-2022-12-ai-safety,2022,12,doomer,ai safety,ai-safety,1669852800,1672531200,2022-12-01,2023-01-01
+doomer-2022-12-alignment,2022,12,doomer,alignment,alignment,1669852800,1672531200,2022-12-01,2023-01-01
+doomer-2022-12-misalignment,2022,12,doomer,misalignment,misalignment,1669852800,1672531200,2022-12-01,2023-01-01
+doomer-2022-12-existential-risk,2022,12,doomer,existential risk,existential-risk,1669852800,1672531200,2022-12-01,2023-01-01
+doomer-2022-12-x-risk,2022,12,doomer,x-risk,x-risk,1669852800,1672531200,2022-12-01,2023-01-01
+doomer-2022-12-p-doom,2022,12,doomer,p(doom),p-doom,1669852800,1672531200,2022-12-01,2023-01-01
+accelerationist-2022-12-e-acc,2022,12,accelerationist,e/acc,e-acc,1669852800,1672531200,2022-12-01,2023-01-01
+accelerationist-2022-12-accelerationism,2022,12,accelerationist,accelerationism,accelerationism,1669852800,1672531200,2022-12-01,2023-01-01
+accelerationist-2022-12-techno-optimism,2022,12,accelerationist,techno-optimism,techno-optimism,1669852800,1672531200,2022-12-01,2023-01-01
+accelerationist-2022-12-abundance-agenda,2022,12,accelerationist,abundance agenda,abundance-agenda,1669852800,1672531200,2022-12-01,2023-01-01
+accelerationist-2022-12-abundance,2022,12,accelerationist,abundance,abundance,1669852800,1672531200,2022-12-01,2023-01-01
+broad_ai-2023-01-artificial-intelligence,2023,01,broad_ai,artificial intelligence,artificial-intelligence,1672531200,1675209600,2023-01-01,2023-02-01
+broad_ai-2023-01-machine-learning,2023,01,broad_ai,machine learning,machine-learning,1672531200,1675209600,2023-01-01,2023-02-01
+broad_ai-2023-01-deep-learning,2023,01,broad_ai,deep learning,deep-learning,1672531200,1675209600,2023-01-01,2023-02-01
+broad_ai-2023-01-neural-network,2023,01,broad_ai,neural network,neural-network,1672531200,1675209600,2023-01-01,2023-02-01
+foundation_models-2023-01-gpt,2023,01,foundation_models,gpt,gpt,1672531200,1675209600,2023-01-01,2023-02-01
+foundation_models-2023-01-llm,2023,01,foundation_models,llm,llm,1672531200,1675209600,2023-01-01,2023-02-01
+foundation_models-2023-01-chatgpt,2023,01,foundation_models,chatgpt,chatgpt,1672531200,1675209600,2023-01-01,2023-02-01
+foundation_models-2023-01-openai,2023,01,foundation_models,openai,openai,1672531200,1675209600,2023-01-01,2023-02-01
+foundation_models-2023-01-claude,2023,01,foundation_models,claude,claude,1672531200,1675209600,2023-01-01,2023-02-01
+foundation_models-2023-01-gemini,2023,01,foundation_models,gemini,gemini,1672531200,1675209600,2023-01-01,2023-02-01
+doomer-2023-01-ai-safety,2023,01,doomer,ai safety,ai-safety,1672531200,1675209600,2023-01-01,2023-02-01
+doomer-2023-01-alignment,2023,01,doomer,alignment,alignment,1672531200,1675209600,2023-01-01,2023-02-01
+doomer-2023-01-misalignment,2023,01,doomer,misalignment,misalignment,1672531200,1675209600,2023-01-01,2023-02-01
+doomer-2023-01-existential-risk,2023,01,doomer,existential risk,existential-risk,1672531200,1675209600,2023-01-01,2023-02-01
+doomer-2023-01-x-risk,2023,01,doomer,x-risk,x-risk,1672531200,1675209600,2023-01-01,2023-02-01
+doomer-2023-01-p-doom,2023,01,doomer,p(doom),p-doom,1672531200,1675209600,2023-01-01,2023-02-01
+accelerationist-2023-01-e-acc,2023,01,accelerationist,e/acc,e-acc,1672531200,1675209600,2023-01-01,2023-02-01
+accelerationist-2023-01-accelerationism,2023,01,accelerationist,accelerationism,accelerationism,1672531200,1675209600,2023-01-01,2023-02-01
+accelerationist-2023-01-techno-optimism,2023,01,accelerationist,techno-optimism,techno-optimism,1672531200,1675209600,2023-01-01,2023-02-01
+accelerationist-2023-01-abundance-agenda,2023,01,accelerationist,abundance agenda,abundance-agenda,1672531200,1675209600,2023-01-01,2023-02-01
+accelerationist-2023-01-abundance,2023,01,accelerationist,abundance,abundance,1672531200,1675209600,2023-01-01,2023-02-01
+broad_ai-2023-02-artificial-intelligence,2023,02,broad_ai,artificial intelligence,artificial-intelligence,1675209600,1677628800,2023-02-01,2023-03-01
+broad_ai-2023-02-machine-learning,2023,02,broad_ai,machine learning,machine-learning,1675209600,1677628800,2023-02-01,2023-03-01
+broad_ai-2023-02-deep-learning,2023,02,broad_ai,deep learning,deep-learning,1675209600,1677628800,2023-02-01,2023-03-01
+broad_ai-2023-02-neural-network,2023,02,broad_ai,neural network,neural-network,1675209600,1677628800,2023-02-01,2023-03-01
+foundation_models-2023-02-gpt,2023,02,foundation_models,gpt,gpt,1675209600,1677628800,2023-02-01,2023-03-01
+foundation_models-2023-02-llm,2023,02,foundation_models,llm,llm,1675209600,1677628800,2023-02-01,2023-03-01
+foundation_models-2023-02-chatgpt,2023,02,foundation_models,chatgpt,chatgpt,1675209600,1677628800,2023-02-01,2023-03-01
+foundation_models-2023-02-openai,2023,02,foundation_models,openai,openai,1675209600,1677628800,2023-02-01,2023-03-01
+foundation_models-2023-02-claude,2023,02,foundation_models,claude,claude,1675209600,1677628800,2023-02-01,2023-03-01
+foundation_models-2023-02-gemini,2023,02,foundation_models,gemini,gemini,1675209600,1677628800,2023-02-01,2023-03-01
+doomer-2023-02-ai-safety,2023,02,doomer,ai safety,ai-safety,1675209600,1677628800,2023-02-01,2023-03-01
+doomer-2023-02-alignment,2023,02,doomer,alignment,alignment,1675209600,1677628800,2023-02-01,2023-03-01
+doomer-2023-02-misalignment,2023,02,doomer,misalignment,misalignment,1675209600,1677628800,2023-02-01,2023-03-01
+doomer-2023-02-existential-risk,2023,02,doomer,existential risk,existential-risk,1675209600,1677628800,2023-02-01,2023-03-01
+doomer-2023-02-x-risk,2023,02,doomer,x-risk,x-risk,1675209600,1677628800,2023-02-01,2023-03-01
+doomer-2023-02-p-doom,2023,02,doomer,p(doom),p-doom,1675209600,1677628800,2023-02-01,2023-03-01
+accelerationist-2023-02-e-acc,2023,02,accelerationist,e/acc,e-acc,1675209600,1677628800,2023-02-01,2023-03-01
+accelerationist-2023-02-accelerationism,2023,02,accelerationist,accelerationism,accelerationism,1675209600,1677628800,2023-02-01,2023-03-01
+accelerationist-2023-02-techno-optimism,2023,02,accelerationist,techno-optimism,techno-optimism,1675209600,1677628800,2023-02-01,2023-03-01
+accelerationist-2023-02-abundance-agenda,2023,02,accelerationist,abundance agenda,abundance-agenda,1675209600,1677628800,2023-02-01,2023-03-01
+accelerationist-2023-02-abundance,2023,02,accelerationist,abundance,abundance,1675209600,1677628800,2023-02-01,2023-03-01
+broad_ai-2023-03-artificial-intelligence,2023,03,broad_ai,artificial intelligence,artificial-intelligence,1677628800,1680307200,2023-03-01,2023-04-01
+broad_ai-2023-03-machine-learning,2023,03,broad_ai,machine learning,machine-learning,1677628800,1680307200,2023-03-01,2023-04-01
+broad_ai-2023-03-deep-learning,2023,03,broad_ai,deep learning,deep-learning,1677628800,1680307200,2023-03-01,2023-04-01
+broad_ai-2023-03-neural-network,2023,03,broad_ai,neural network,neural-network,1677628800,1680307200,2023-03-01,2023-04-01
+foundation_models-2023-03-gpt,2023,03,foundation_models,gpt,gpt,1677628800,1680307200,2023-03-01,2023-04-01
+foundation_models-2023-03-llm,2023,03,foundation_models,llm,llm,1677628800,1680307200,2023-03-01,2023-04-01
+foundation_models-2023-03-chatgpt,2023,03,foundation_models,chatgpt,chatgpt,1677628800,1680307200,2023-03-01,2023-04-01
+foundation_models-2023-03-openai,2023,03,foundation_models,openai,openai,1677628800,1680307200,2023-03-01,2023-04-01
+foundation_models-2023-03-claude,2023,03,foundation_models,claude,claude,1677628800,1680307200,2023-03-01,2023-04-01
+foundation_models-2023-03-gemini,2023,03,foundation_models,gemini,gemini,1677628800,1680307200,2023-03-01,2023-04-01
+doomer-2023-03-ai-safety,2023,03,doomer,ai safety,ai-safety,1677628800,1680307200,2023-03-01,2023-04-01
+doomer-2023-03-alignment,2023,03,doomer,alignment,alignment,1677628800,1680307200,2023-03-01,2023-04-01
+doomer-2023-03-misalignment,2023,03,doomer,misalignment,misalignment,1677628800,1680307200,2023-03-01,2023-04-01
+doomer-2023-03-existential-risk,2023,03,doomer,existential risk,existential-risk,1677628800,1680307200,2023-03-01,2023-04-01
+doomer-2023-03-x-risk,2023,03,doomer,x-risk,x-risk,1677628800,1680307200,2023-03-01,2023-04-01
+doomer-2023-03-p-doom,2023,03,doomer,p(doom),p-doom,1677628800,1680307200,2023-03-01,2023-04-01
+accelerationist-2023-03-e-acc,2023,03,accelerationist,e/acc,e-acc,1677628800,1680307200,2023-03-01,2023-04-01
+accelerationist-2023-03-accelerationism,2023,03,accelerationist,accelerationism,accelerationism,1677628800,1680307200,2023-03-01,2023-04-01
+accelerationist-2023-03-techno-optimism,2023,03,accelerationist,techno-optimism,techno-optimism,1677628800,1680307200,2023-03-01,2023-04-01
+accelerationist-2023-03-abundance-agenda,2023,03,accelerationist,abundance agenda,abundance-agenda,1677628800,1680307200,2023-03-01,2023-04-01
+accelerationist-2023-03-abundance,2023,03,accelerationist,abundance,abundance,1677628800,1680307200,2023-03-01,2023-04-01
+broad_ai-2023-04-artificial-intelligence,2023,04,broad_ai,artificial intelligence,artificial-intelligence,1680307200,1682899200,2023-04-01,2023-05-01
+broad_ai-2023-04-machine-learning,2023,04,broad_ai,machine learning,machine-learning,1680307200,1682899200,2023-04-01,2023-05-01
+broad_ai-2023-04-deep-learning,2023,04,broad_ai,deep learning,deep-learning,1680307200,1682899200,2023-04-01,2023-05-01
+broad_ai-2023-04-neural-network,2023,04,broad_ai,neural network,neural-network,1680307200,1682899200,2023-04-01,2023-05-01
+foundation_models-2023-04-gpt,2023,04,foundation_models,gpt,gpt,1680307200,1682899200,2023-04-01,2023-05-01
+foundation_models-2023-04-llm,2023,04,foundation_models,llm,llm,1680307200,1682899200,2023-04-01,2023-05-01
+foundation_models-2023-04-chatgpt,2023,04,foundation_models,chatgpt,chatgpt,1680307200,1682899200,2023-04-01,2023-05-01
+foundation_models-2023-04-openai,2023,04,foundation_models,openai,openai,1680307200,1682899200,2023-04-01,2023-05-01
+foundation_models-2023-04-claude,2023,04,foundation_models,claude,claude,1680307200,1682899200,2023-04-01,2023-05-01
+foundation_models-2023-04-gemini,2023,04,foundation_models,gemini,gemini,1680307200,1682899200,2023-04-01,2023-05-01
+doomer-2023-04-ai-safety,2023,04,doomer,ai safety,ai-safety,1680307200,1682899200,2023-04-01,2023-05-01
+doomer-2023-04-alignment,2023,04,doomer,alignment,alignment,1680307200,1682899200,2023-04-01,2023-05-01
+doomer-2023-04-misalignment,2023,04,doomer,misalignment,misalignment,1680307200,1682899200,2023-04-01,2023-05-01
+doomer-2023-04-existential-risk,2023,04,doomer,existential risk,existential-risk,1680307200,1682899200,2023-04-01,2023-05-01
+doomer-2023-04-x-risk,2023,04,doomer,x-risk,x-risk,1680307200,1682899200,2023-04-01,2023-05-01
+doomer-2023-04-p-doom,2023,04,doomer,p(doom),p-doom,1680307200,1682899200,2023-04-01,2023-05-01
+accelerationist-2023-04-e-acc,2023,04,accelerationist,e/acc,e-acc,1680307200,1682899200,2023-04-01,2023-05-01
+accelerationist-2023-04-accelerationism,2023,04,accelerationist,accelerationism,accelerationism,1680307200,1682899200,2023-04-01,2023-05-01
+accelerationist-2023-04-techno-optimism,2023,04,accelerationist,techno-optimism,techno-optimism,1680307200,1682899200,2023-04-01,2023-05-01
+accelerationist-2023-04-abundance-agenda,2023,04,accelerationist,abundance agenda,abundance-agenda,1680307200,1682899200,2023-04-01,2023-05-01
+accelerationist-2023-04-abundance,2023,04,accelerationist,abundance,abundance,1680307200,1682899200,2023-04-01,2023-05-01
+broad_ai-2023-05-artificial-intelligence,2023,05,broad_ai,artificial intelligence,artificial-intelligence,1682899200,1685577600,2023-05-01,2023-06-01
+broad_ai-2023-05-machine-learning,2023,05,broad_ai,machine learning,machine-learning,1682899200,1685577600,2023-05-01,2023-06-01
+broad_ai-2023-05-deep-learning,2023,05,broad_ai,deep learning,deep-learning,1682899200,1685577600,2023-05-01,2023-06-01
+broad_ai-2023-05-neural-network,2023,05,broad_ai,neural network,neural-network,1682899200,1685577600,2023-05-01,2023-06-01
+foundation_models-2023-05-gpt,2023,05,foundation_models,gpt,gpt,1682899200,1685577600,2023-05-01,2023-06-01
+foundation_models-2023-05-llm,2023,05,foundation_models,llm,llm,1682899200,1685577600,2023-05-01,2023-06-01
+foundation_models-2023-05-chatgpt,2023,05,foundation_models,chatgpt,chatgpt,1682899200,1685577600,2023-05-01,2023-06-01
+foundation_models-2023-05-openai,2023,05,foundation_models,openai,openai,1682899200,1685577600,2023-05-01,2023-06-01
+foundation_models-2023-05-claude,2023,05,foundation_models,claude,claude,1682899200,1685577600,2023-05-01,2023-06-01
+foundation_models-2023-05-gemini,2023,05,foundation_models,gemini,gemini,1682899200,1685577600,2023-05-01,2023-06-01
+doomer-2023-05-ai-safety,2023,05,doomer,ai safety,ai-safety,1682899200,1685577600,2023-05-01,2023-06-01
+doomer-2023-05-alignment,2023,05,doomer,alignment,alignment,1682899200,1685577600,2023-05-01,2023-06-01
+doomer-2023-05-misalignment,2023,05,doomer,misalignment,misalignment,1682899200,1685577600,2023-05-01,2023-06-01
+doomer-2023-05-existential-risk,2023,05,doomer,existential risk,existential-risk,1682899200,1685577600,2023-05-01,2023-06-01
+doomer-2023-05-x-risk,2023,05,doomer,x-risk,x-risk,1682899200,1685577600,2023-05-01,2023-06-01
+doomer-2023-05-p-doom,2023,05,doomer,p(doom),p-doom,1682899200,1685577600,2023-05-01,2023-06-01
+accelerationist-2023-05-e-acc,2023,05,accelerationist,e/acc,e-acc,1682899200,1685577600,2023-05-01,2023-06-01
+accelerationist-2023-05-accelerationism,2023,05,accelerationist,accelerationism,accelerationism,1682899200,1685577600,2023-05-01,2023-06-01
+accelerationist-2023-05-techno-optimism,2023,05,accelerationist,techno-optimism,techno-optimism,1682899200,1685577600,2023-05-01,2023-06-01
+accelerationist-2023-05-abundance-agenda,2023,05,accelerationist,abundance agenda,abundance-agenda,1682899200,1685577600,2023-05-01,2023-06-01
+accelerationist-2023-05-abundance,2023,05,accelerationist,abundance,abundance,1682899200,1685577600,2023-05-01,2023-06-01
+broad_ai-2023-06-artificial-intelligence,2023,06,broad_ai,artificial intelligence,artificial-intelligence,1685577600,1688169600,2023-06-01,2023-07-01
+broad_ai-2023-06-machine-learning,2023,06,broad_ai,machine learning,machine-learning,1685577600,1688169600,2023-06-01,2023-07-01
+broad_ai-2023-06-deep-learning,2023,06,broad_ai,deep learning,deep-learning,1685577600,1688169600,2023-06-01,2023-07-01
+broad_ai-2023-06-neural-network,2023,06,broad_ai,neural network,neural-network,1685577600,1688169600,2023-06-01,2023-07-01
+foundation_models-2023-06-gpt,2023,06,foundation_models,gpt,gpt,1685577600,1688169600,2023-06-01,2023-07-01
+foundation_models-2023-06-llm,2023,06,foundation_models,llm,llm,1685577600,1688169600,2023-06-01,2023-07-01
+foundation_models-2023-06-chatgpt,2023,06,foundation_models,chatgpt,chatgpt,1685577600,1688169600,2023-06-01,2023-07-01
+foundation_models-2023-06-openai,2023,06,foundation_models,openai,openai,1685577600,1688169600,2023-06-01,2023-07-01
+foundation_models-2023-06-claude,2023,06,foundation_models,claude,claude,1685577600,1688169600,2023-06-01,2023-07-01
+foundation_models-2023-06-gemini,2023,06,foundation_models,gemini,gemini,1685577600,1688169600,2023-06-01,2023-07-01
+doomer-2023-06-ai-safety,2023,06,doomer,ai safety,ai-safety,1685577600,1688169600,2023-06-01,2023-07-01
+doomer-2023-06-alignment,2023,06,doomer,alignment,alignment,1685577600,1688169600,2023-06-01,2023-07-01
+doomer-2023-06-misalignment,2023,06,doomer,misalignment,misalignment,1685577600,1688169600,2023-06-01,2023-07-01
+doomer-2023-06-existential-risk,2023,06,doomer,existential risk,existential-risk,1685577600,1688169600,2023-06-01,2023-07-01
+doomer-2023-06-x-risk,2023,06,doomer,x-risk,x-risk,1685577600,1688169600,2023-06-01,2023-07-01
+doomer-2023-06-p-doom,2023,06,doomer,p(doom),p-doom,1685577600,1688169600,2023-06-01,2023-07-01
+accelerationist-2023-06-e-acc,2023,06,accelerationist,e/acc,e-acc,1685577600,1688169600,2023-06-01,2023-07-01
+accelerationist-2023-06-accelerationism,2023,06,accelerationist,accelerationism,accelerationism,1685577600,1688169600,2023-06-01,2023-07-01
+accelerationist-2023-06-techno-optimism,2023,06,accelerationist,techno-optimism,techno-optimism,1685577600,1688169600,2023-06-01,2023-07-01
+accelerationist-2023-06-abundance-agenda,2023,06,accelerationist,abundance agenda,abundance-agenda,1685577600,1688169600,2023-06-01,2023-07-01
+accelerationist-2023-06-abundance,2023,06,accelerationist,abundance,abundance,1685577600,1688169600,2023-06-01,2023-07-01
+broad_ai-2023-07-artificial-intelligence,2023,07,broad_ai,artificial intelligence,artificial-intelligence,1688169600,1690848000,2023-07-01,2023-08-01
+broad_ai-2023-07-machine-learning,2023,07,broad_ai,machine learning,machine-learning,1688169600,1690848000,2023-07-01,2023-08-01
+broad_ai-2023-07-deep-learning,2023,07,broad_ai,deep learning,deep-learning,1688169600,1690848000,2023-07-01,2023-08-01
+broad_ai-2023-07-neural-network,2023,07,broad_ai,neural network,neural-network,1688169600,1690848000,2023-07-01,2023-08-01
+foundation_models-2023-07-gpt,2023,07,foundation_models,gpt,gpt,1688169600,1690848000,2023-07-01,2023-08-01
+foundation_models-2023-07-llm,2023,07,foundation_models,llm,llm,1688169600,1690848000,2023-07-01,2023-08-01
+foundation_models-2023-07-chatgpt,2023,07,foundation_models,chatgpt,chatgpt,1688169600,1690848000,2023-07-01,2023-08-01
+foundation_models-2023-07-openai,2023,07,foundation_models,openai,openai,1688169600,1690848000,2023-07-01,2023-08-01
+foundation_models-2023-07-claude,2023,07,foundation_models,claude,claude,1688169600,1690848000,2023-07-01,2023-08-01
+foundation_models-2023-07-gemini,2023,07,foundation_models,gemini,gemini,1688169600,1690848000,2023-07-01,2023-08-01
+doomer-2023-07-ai-safety,2023,07,doomer,ai safety,ai-safety,1688169600,1690848000,2023-07-01,2023-08-01
+doomer-2023-07-alignment,2023,07,doomer,alignment,alignment,1688169600,1690848000,2023-07-01,2023-08-01
+doomer-2023-07-misalignment,2023,07,doomer,misalignment,misalignment,1688169600,1690848000,2023-07-01,2023-08-01
+doomer-2023-07-existential-risk,2023,07,doomer,existential risk,existential-risk,1688169600,1690848000,2023-07-01,2023-08-01
+doomer-2023-07-x-risk,2023,07,doomer,x-risk,x-risk,1688169600,1690848000,2023-07-01,2023-08-01
+doomer-2023-07-p-doom,2023,07,doomer,p(doom),p-doom,1688169600,1690848000,2023-07-01,2023-08-01
+accelerationist-2023-07-e-acc,2023,07,accelerationist,e/acc,e-acc,1688169600,1690848000,2023-07-01,2023-08-01
+accelerationist-2023-07-accelerationism,2023,07,accelerationist,accelerationism,accelerationism,1688169600,1690848000,2023-07-01,2023-08-01
+accelerationist-2023-07-techno-optimism,2023,07,accelerationist,techno-optimism,techno-optimism,1688169600,1690848000,2023-07-01,2023-08-01
+accelerationist-2023-07-abundance-agenda,2023,07,accelerationist,abundance agenda,abundance-agenda,1688169600,1690848000,2023-07-01,2023-08-01
+accelerationist-2023-07-abundance,2023,07,accelerationist,abundance,abundance,1688169600,1690848000,2023-07-01,2023-08-01
+broad_ai-2023-08-artificial-intelligence,2023,08,broad_ai,artificial intelligence,artificial-intelligence,1690848000,1693526400,2023-08-01,2023-09-01
+broad_ai-2023-08-machine-learning,2023,08,broad_ai,machine learning,machine-learning,1690848000,1693526400,2023-08-01,2023-09-01
+broad_ai-2023-08-deep-learning,2023,08,broad_ai,deep learning,deep-learning,1690848000,1693526400,2023-08-01,2023-09-01
+broad_ai-2023-08-neural-network,2023,08,broad_ai,neural network,neural-network,1690848000,1693526400,2023-08-01,2023-09-01
+foundation_models-2023-08-gpt,2023,08,foundation_models,gpt,gpt,1690848000,1693526400,2023-08-01,2023-09-01
+foundation_models-2023-08-llm,2023,08,foundation_models,llm,llm,1690848000,1693526400,2023-08-01,2023-09-01
+foundation_models-2023-08-chatgpt,2023,08,foundation_models,chatgpt,chatgpt,1690848000,1693526400,2023-08-01,2023-09-01
+foundation_models-2023-08-openai,2023,08,foundation_models,openai,openai,1690848000,1693526400,2023-08-01,2023-09-01
+foundation_models-2023-08-claude,2023,08,foundation_models,claude,claude,1690848000,1693526400,2023-08-01,2023-09-01
+foundation_models-2023-08-gemini,2023,08,foundation_models,gemini,gemini,1690848000,1693526400,2023-08-01,2023-09-01
+doomer-2023-08-ai-safety,2023,08,doomer,ai safety,ai-safety,1690848000,1693526400,2023-08-01,2023-09-01
+doomer-2023-08-alignment,2023,08,doomer,alignment,alignment,1690848000,1693526400,2023-08-01,2023-09-01
+doomer-2023-08-misalignment,2023,08,doomer,misalignment,misalignment,1690848000,1693526400,2023-08-01,2023-09-01
+doomer-2023-08-existential-risk,2023,08,doomer,existential risk,existential-risk,1690848000,1693526400,2023-08-01,2023-09-01
+doomer-2023-08-x-risk,2023,08,doomer,x-risk,x-risk,1690848000,1693526400,2023-08-01,2023-09-01
+doomer-2023-08-p-doom,2023,08,doomer,p(doom),p-doom,1690848000,1693526400,2023-08-01,2023-09-01
+accelerationist-2023-08-e-acc,2023,08,accelerationist,e/acc,e-acc,1690848000,1693526400,2023-08-01,2023-09-01
+accelerationist-2023-08-accelerationism,2023,08,accelerationist,accelerationism,accelerationism,1690848000,1693526400,2023-08-01,2023-09-01
+accelerationist-2023-08-techno-optimism,2023,08,accelerationist,techno-optimism,techno-optimism,1690848000,1693526400,2023-08-01,2023-09-01
+accelerationist-2023-08-abundance-agenda,2023,08,accelerationist,abundance agenda,abundance-agenda,1690848000,1693526400,2023-08-01,2023-09-01
+accelerationist-2023-08-abundance,2023,08,accelerationist,abundance,abundance,1690848000,1693526400,2023-08-01,2023-09-01
+broad_ai-2023-09-artificial-intelligence,2023,09,broad_ai,artificial intelligence,artificial-intelligence,1693526400,1696118400,2023-09-01,2023-10-01
+broad_ai-2023-09-machine-learning,2023,09,broad_ai,machine learning,machine-learning,1693526400,1696118400,2023-09-01,2023-10-01
+broad_ai-2023-09-deep-learning,2023,09,broad_ai,deep learning,deep-learning,1693526400,1696118400,2023-09-01,2023-10-01
+broad_ai-2023-09-neural-network,2023,09,broad_ai,neural network,neural-network,1693526400,1696118400,2023-09-01,2023-10-01
+foundation_models-2023-09-gpt,2023,09,foundation_models,gpt,gpt,1693526400,1696118400,2023-09-01,2023-10-01
+foundation_models-2023-09-llm,2023,09,foundation_models,llm,llm,1693526400,1696118400,2023-09-01,2023-10-01
+foundation_models-2023-09-chatgpt,2023,09,foundation_models,chatgpt,chatgpt,1693526400,1696118400,2023-09-01,2023-10-01
+foundation_models-2023-09-openai,2023,09,foundation_models,openai,openai,1693526400,1696118400,2023-09-01,2023-10-01
+foundation_models-2023-09-claude,2023,09,foundation_models,claude,claude,1693526400,1696118400,2023-09-01,2023-10-01
+foundation_models-2023-09-gemini,2023,09,foundation_models,gemini,gemini,1693526400,1696118400,2023-09-01,2023-10-01
+doomer-2023-09-ai-safety,2023,09,doomer,ai safety,ai-safety,1693526400,1696118400,2023-09-01,2023-10-01
+doomer-2023-09-alignment,2023,09,doomer,alignment,alignment,1693526400,1696118400,2023-09-01,2023-10-01
+doomer-2023-09-misalignment,2023,09,doomer,misalignment,misalignment,1693526400,1696118400,2023-09-01,2023-10-01
+doomer-2023-09-existential-risk,2023,09,doomer,existential risk,existential-risk,1693526400,1696118400,2023-09-01,2023-10-01
+doomer-2023-09-x-risk,2023,09,doomer,x-risk,x-risk,1693526400,1696118400,2023-09-01,2023-10-01
+doomer-2023-09-p-doom,2023,09,doomer,p(doom),p-doom,1693526400,1696118400,2023-09-01,2023-10-01
+accelerationist-2023-09-e-acc,2023,09,accelerationist,e/acc,e-acc,1693526400,1696118400,2023-09-01,2023-10-01
+accelerationist-2023-09-accelerationism,2023,09,accelerationist,accelerationism,accelerationism,1693526400,1696118400,2023-09-01,2023-10-01
+accelerationist-2023-09-techno-optimism,2023,09,accelerationist,techno-optimism,techno-optimism,1693526400,1696118400,2023-09-01,2023-10-01
+accelerationist-2023-09-abundance-agenda,2023,09,accelerationist,abundance agenda,abundance-agenda,1693526400,1696118400,2023-09-01,2023-10-01
+accelerationist-2023-09-abundance,2023,09,accelerationist,abundance,abundance,1693526400,1696118400,2023-09-01,2023-10-01
+broad_ai-2023-10-artificial-intelligence,2023,10,broad_ai,artificial intelligence,artificial-intelligence,1696118400,1698796800,2023-10-01,2023-11-01
+broad_ai-2023-10-machine-learning,2023,10,broad_ai,machine learning,machine-learning,1696118400,1698796800,2023-10-01,2023-11-01
+broad_ai-2023-10-deep-learning,2023,10,broad_ai,deep learning,deep-learning,1696118400,1698796800,2023-10-01,2023-11-01
+broad_ai-2023-10-neural-network,2023,10,broad_ai,neural network,neural-network,1696118400,1698796800,2023-10-01,2023-11-01
+foundation_models-2023-10-gpt,2023,10,foundation_models,gpt,gpt,1696118400,1698796800,2023-10-01,2023-11-01
+foundation_models-2023-10-llm,2023,10,foundation_models,llm,llm,1696118400,1698796800,2023-10-01,2023-11-01
+foundation_models-2023-10-chatgpt,2023,10,foundation_models,chatgpt,chatgpt,1696118400,1698796800,2023-10-01,2023-11-01
+foundation_models-2023-10-openai,2023,10,foundation_models,openai,openai,1696118400,1698796800,2023-10-01,2023-11-01
+foundation_models-2023-10-claude,2023,10,foundation_models,claude,claude,1696118400,1698796800,2023-10-01,2023-11-01
+foundation_models-2023-10-gemini,2023,10,foundation_models,gemini,gemini,1696118400,1698796800,2023-10-01,2023-11-01
+doomer-2023-10-ai-safety,2023,10,doomer,ai safety,ai-safety,1696118400,1698796800,2023-10-01,2023-11-01
+doomer-2023-10-alignment,2023,10,doomer,alignment,alignment,1696118400,1698796800,2023-10-01,2023-11-01
+doomer-2023-10-misalignment,2023,10,doomer,misalignment,misalignment,1696118400,1698796800,2023-10-01,2023-11-01
+doomer-2023-10-existential-risk,2023,10,doomer,existential risk,existential-risk,1696118400,1698796800,2023-10-01,2023-11-01
+doomer-2023-10-x-risk,2023,10,doomer,x-risk,x-risk,1696118400,1698796800,2023-10-01,2023-11-01
+doomer-2023-10-p-doom,2023,10,doomer,p(doom),p-doom,1696118400,1698796800,2023-10-01,2023-11-01
+accelerationist-2023-10-e-acc,2023,10,accelerationist,e/acc,e-acc,1696118400,1698796800,2023-10-01,2023-11-01
+accelerationist-2023-10-accelerationism,2023,10,accelerationist,accelerationism,accelerationism,1696118400,1698796800,2023-10-01,2023-11-01
+accelerationist-2023-10-techno-optimism,2023,10,accelerationist,techno-optimism,techno-optimism,1696118400,1698796800,2023-10-01,2023-11-01
+accelerationist-2023-10-abundance-agenda,2023,10,accelerationist,abundance agenda,abundance-agenda,1696118400,1698796800,2023-10-01,2023-11-01
+accelerationist-2023-10-abundance,2023,10,accelerationist,abundance,abundance,1696118400,1698796800,2023-10-01,2023-11-01
+broad_ai-2023-11-artificial-intelligence,2023,11,broad_ai,artificial intelligence,artificial-intelligence,1698796800,1701388800,2023-11-01,2023-12-01
+broad_ai-2023-11-machine-learning,2023,11,broad_ai,machine learning,machine-learning,1698796800,1701388800,2023-11-01,2023-12-01
+broad_ai-2023-11-deep-learning,2023,11,broad_ai,deep learning,deep-learning,1698796800,1701388800,2023-11-01,2023-12-01
+broad_ai-2023-11-neural-network,2023,11,broad_ai,neural network,neural-network,1698796800,1701388800,2023-11-01,2023-12-01
+foundation_models-2023-11-gpt,2023,11,foundation_models,gpt,gpt,1698796800,1701388800,2023-11-01,2023-12-01
+foundation_models-2023-11-llm,2023,11,foundation_models,llm,llm,1698796800,1701388800,2023-11-01,2023-12-01
+foundation_models-2023-11-chatgpt,2023,11,foundation_models,chatgpt,chatgpt,1698796800,1701388800,2023-11-01,2023-12-01
+foundation_models-2023-11-openai,2023,11,foundation_models,openai,openai,1698796800,1701388800,2023-11-01,2023-12-01
+foundation_models-2023-11-claude,2023,11,foundation_models,claude,claude,1698796800,1701388800,2023-11-01,2023-12-01
+foundation_models-2023-11-gemini,2023,11,foundation_models,gemini,gemini,1698796800,1701388800,2023-11-01,2023-12-01
+doomer-2023-11-ai-safety,2023,11,doomer,ai safety,ai-safety,1698796800,1701388800,2023-11-01,2023-12-01
+doomer-2023-11-alignment,2023,11,doomer,alignment,alignment,1698796800,1701388800,2023-11-01,2023-12-01
+doomer-2023-11-misalignment,2023,11,doomer,misalignment,misalignment,1698796800,1701388800,2023-11-01,2023-12-01
+doomer-2023-11-existential-risk,2023,11,doomer,existential risk,existential-risk,1698796800,1701388800,2023-11-01,2023-12-01
+doomer-2023-11-x-risk,2023,11,doomer,x-risk,x-risk,1698796800,1701388800,2023-11-01,2023-12-01
+doomer-2023-11-p-doom,2023,11,doomer,p(doom),p-doom,1698796800,1701388800,2023-11-01,2023-12-01
+accelerationist-2023-11-e-acc,2023,11,accelerationist,e/acc,e-acc,1698796800,1701388800,2023-11-01,2023-12-01
+accelerationist-2023-11-accelerationism,2023,11,accelerationist,accelerationism,accelerationism,1698796800,1701388800,2023-11-01,2023-12-01
+accelerationist-2023-11-techno-optimism,2023,11,accelerationist,techno-optimism,techno-optimism,1698796800,1701388800,2023-11-01,2023-12-01
+accelerationist-2023-11-abundance-agenda,2023,11,accelerationist,abundance agenda,abundance-agenda,1698796800,1701388800,2023-11-01,2023-12-01
+accelerationist-2023-11-abundance,2023,11,accelerationist,abundance,abundance,1698796800,1701388800,2023-11-01,2023-12-01
+broad_ai-2023-12-artificial-intelligence,2023,12,broad_ai,artificial intelligence,artificial-intelligence,1701388800,1704067200,2023-12-01,2024-01-01
+broad_ai-2023-12-machine-learning,2023,12,broad_ai,machine learning,machine-learning,1701388800,1704067200,2023-12-01,2024-01-01
+broad_ai-2023-12-deep-learning,2023,12,broad_ai,deep learning,deep-learning,1701388800,1704067200,2023-12-01,2024-01-01
+broad_ai-2023-12-neural-network,2023,12,broad_ai,neural network,neural-network,1701388800,1704067200,2023-12-01,2024-01-01
+foundation_models-2023-12-gpt,2023,12,foundation_models,gpt,gpt,1701388800,1704067200,2023-12-01,2024-01-01
+foundation_models-2023-12-llm,2023,12,foundation_models,llm,llm,1701388800,1704067200,2023-12-01,2024-01-01
+foundation_models-2023-12-chatgpt,2023,12,foundation_models,chatgpt,chatgpt,1701388800,1704067200,2023-12-01,2024-01-01
+foundation_models-2023-12-openai,2023,12,foundation_models,openai,openai,1701388800,1704067200,2023-12-01,2024-01-01
+foundation_models-2023-12-claude,2023,12,foundation_models,claude,claude,1701388800,1704067200,2023-12-01,2024-01-01
+foundation_models-2023-12-gemini,2023,12,foundation_models,gemini,gemini,1701388800,1704067200,2023-12-01,2024-01-01
+doomer-2023-12-ai-safety,2023,12,doomer,ai safety,ai-safety,1701388800,1704067200,2023-12-01,2024-01-01
+doomer-2023-12-alignment,2023,12,doomer,alignment,alignment,1701388800,1704067200,2023-12-01,2024-01-01
+doomer-2023-12-misalignment,2023,12,doomer,misalignment,misalignment,1701388800,1704067200,2023-12-01,2024-01-01
+doomer-2023-12-existential-risk,2023,12,doomer,existential risk,existential-risk,1701388800,1704067200,2023-12-01,2024-01-01
+doomer-2023-12-x-risk,2023,12,doomer,x-risk,x-risk,1701388800,1704067200,2023-12-01,2024-01-01
+doomer-2023-12-p-doom,2023,12,doomer,p(doom),p-doom,1701388800,1704067200,2023-12-01,2024-01-01
+accelerationist-2023-12-e-acc,2023,12,accelerationist,e/acc,e-acc,1701388800,1704067200,2023-12-01,2024-01-01
+accelerationist-2023-12-accelerationism,2023,12,accelerationist,accelerationism,accelerationism,1701388800,1704067200,2023-12-01,2024-01-01
+accelerationist-2023-12-techno-optimism,2023,12,accelerationist,techno-optimism,techno-optimism,1701388800,1704067200,2023-12-01,2024-01-01
+accelerationist-2023-12-abundance-agenda,2023,12,accelerationist,abundance agenda,abundance-agenda,1701388800,1704067200,2023-12-01,2024-01-01
+accelerationist-2023-12-abundance,2023,12,accelerationist,abundance,abundance,1701388800,1704067200,2023-12-01,2024-01-01
+broad_ai-2024-01-artificial-intelligence,2024,01,broad_ai,artificial intelligence,artificial-intelligence,1704067200,1706745600,2024-01-01,2024-02-01
+broad_ai-2024-01-machine-learning,2024,01,broad_ai,machine learning,machine-learning,1704067200,1706745600,2024-01-01,2024-02-01
+broad_ai-2024-01-deep-learning,2024,01,broad_ai,deep learning,deep-learning,1704067200,1706745600,2024-01-01,2024-02-01
+broad_ai-2024-01-neural-network,2024,01,broad_ai,neural network,neural-network,1704067200,1706745600,2024-01-01,2024-02-01
+foundation_models-2024-01-gpt,2024,01,foundation_models,gpt,gpt,1704067200,1706745600,2024-01-01,2024-02-01
+foundation_models-2024-01-llm,2024,01,foundation_models,llm,llm,1704067200,1706745600,2024-01-01,2024-02-01
+foundation_models-2024-01-chatgpt,2024,01,foundation_models,chatgpt,chatgpt,1704067200,1706745600,2024-01-01,2024-02-01
+foundation_models-2024-01-openai,2024,01,foundation_models,openai,openai,1704067200,1706745600,2024-01-01,2024-02-01
+foundation_models-2024-01-claude,2024,01,foundation_models,claude,claude,1704067200,1706745600,2024-01-01,2024-02-01
+foundation_models-2024-01-gemini,2024,01,foundation_models,gemini,gemini,1704067200,1706745600,2024-01-01,2024-02-01
+doomer-2024-01-ai-safety,2024,01,doomer,ai safety,ai-safety,1704067200,1706745600,2024-01-01,2024-02-01
+doomer-2024-01-alignment,2024,01,doomer,alignment,alignment,1704067200,1706745600,2024-01-01,2024-02-01
+doomer-2024-01-misalignment,2024,01,doomer,misalignment,misalignment,1704067200,1706745600,2024-01-01,2024-02-01
+doomer-2024-01-existential-risk,2024,01,doomer,existential risk,existential-risk,1704067200,1706745600,2024-01-01,2024-02-01
+doomer-2024-01-x-risk,2024,01,doomer,x-risk,x-risk,1704067200,1706745600,2024-01-01,2024-02-01
+doomer-2024-01-p-doom,2024,01,doomer,p(doom),p-doom,1704067200,1706745600,2024-01-01,2024-02-01
+accelerationist-2024-01-e-acc,2024,01,accelerationist,e/acc,e-acc,1704067200,1706745600,2024-01-01,2024-02-01
+accelerationist-2024-01-accelerationism,2024,01,accelerationist,accelerationism,accelerationism,1704067200,1706745600,2024-01-01,2024-02-01
+accelerationist-2024-01-techno-optimism,2024,01,accelerationist,techno-optimism,techno-optimism,1704067200,1706745600,2024-01-01,2024-02-01
+accelerationist-2024-01-abundance-agenda,2024,01,accelerationist,abundance agenda,abundance-agenda,1704067200,1706745600,2024-01-01,2024-02-01
+accelerationist-2024-01-abundance,2024,01,accelerationist,abundance,abundance,1704067200,1706745600,2024-01-01,2024-02-01
+broad_ai-2024-02-artificial-intelligence,2024,02,broad_ai,artificial intelligence,artificial-intelligence,1706745600,1709251200,2024-02-01,2024-03-01
+broad_ai-2024-02-machine-learning,2024,02,broad_ai,machine learning,machine-learning,1706745600,1709251200,2024-02-01,2024-03-01
+broad_ai-2024-02-deep-learning,2024,02,broad_ai,deep learning,deep-learning,1706745600,1709251200,2024-02-01,2024-03-01
+broad_ai-2024-02-neural-network,2024,02,broad_ai,neural network,neural-network,1706745600,1709251200,2024-02-01,2024-03-01
+foundation_models-2024-02-gpt,2024,02,foundation_models,gpt,gpt,1706745600,1709251200,2024-02-01,2024-03-01
+foundation_models-2024-02-llm,2024,02,foundation_models,llm,llm,1706745600,1709251200,2024-02-01,2024-03-01
+foundation_models-2024-02-chatgpt,2024,02,foundation_models,chatgpt,chatgpt,1706745600,1709251200,2024-02-01,2024-03-01
+foundation_models-2024-02-openai,2024,02,foundation_models,openai,openai,1706745600,1709251200,2024-02-01,2024-03-01
+foundation_models-2024-02-claude,2024,02,foundation_models,claude,claude,1706745600,1709251200,2024-02-01,2024-03-01
+foundation_models-2024-02-gemini,2024,02,foundation_models,gemini,gemini,1706745600,1709251200,2024-02-01,2024-03-01
+doomer-2024-02-ai-safety,2024,02,doomer,ai safety,ai-safety,1706745600,1709251200,2024-02-01,2024-03-01
+doomer-2024-02-alignment,2024,02,doomer,alignment,alignment,1706745600,1709251200,2024-02-01,2024-03-01
+doomer-2024-02-misalignment,2024,02,doomer,misalignment,misalignment,1706745600,1709251200,2024-02-01,2024-03-01
+doomer-2024-02-existential-risk,2024,02,doomer,existential risk,existential-risk,1706745600,1709251200,2024-02-01,2024-03-01
+doomer-2024-02-x-risk,2024,02,doomer,x-risk,x-risk,1706745600,1709251200,2024-02-01,2024-03-01
+doomer-2024-02-p-doom,2024,02,doomer,p(doom),p-doom,1706745600,1709251200,2024-02-01,2024-03-01
+accelerationist-2024-02-e-acc,2024,02,accelerationist,e/acc,e-acc,1706745600,1709251200,2024-02-01,2024-03-01
+accelerationist-2024-02-accelerationism,2024,02,accelerationist,accelerationism,accelerationism,1706745600,1709251200,2024-02-01,2024-03-01
+accelerationist-2024-02-techno-optimism,2024,02,accelerationist,techno-optimism,techno-optimism,1706745600,1709251200,2024-02-01,2024-03-01
+accelerationist-2024-02-abundance-agenda,2024,02,accelerationist,abundance agenda,abundance-agenda,1706745600,1709251200,2024-02-01,2024-03-01
+accelerationist-2024-02-abundance,2024,02,accelerationist,abundance,abundance,1706745600,1709251200,2024-02-01,2024-03-01
+broad_ai-2024-03-artificial-intelligence,2024,03,broad_ai,artificial intelligence,artificial-intelligence,1709251200,1711929600,2024-03-01,2024-04-01
+broad_ai-2024-03-machine-learning,2024,03,broad_ai,machine learning,machine-learning,1709251200,1711929600,2024-03-01,2024-04-01
+broad_ai-2024-03-deep-learning,2024,03,broad_ai,deep learning,deep-learning,1709251200,1711929600,2024-03-01,2024-04-01
+broad_ai-2024-03-neural-network,2024,03,broad_ai,neural network,neural-network,1709251200,1711929600,2024-03-01,2024-04-01
+foundation_models-2024-03-gpt,2024,03,foundation_models,gpt,gpt,1709251200,1711929600,2024-03-01,2024-04-01
+foundation_models-2024-03-llm,2024,03,foundation_models,llm,llm,1709251200,1711929600,2024-03-01,2024-04-01
+foundation_models-2024-03-chatgpt,2024,03,foundation_models,chatgpt,chatgpt,1709251200,1711929600,2024-03-01,2024-04-01
+foundation_models-2024-03-openai,2024,03,foundation_models,openai,openai,1709251200,1711929600,2024-03-01,2024-04-01
+foundation_models-2024-03-claude,2024,03,foundation_models,claude,claude,1709251200,1711929600,2024-03-01,2024-04-01
+foundation_models-2024-03-gemini,2024,03,foundation_models,gemini,gemini,1709251200,1711929600,2024-03-01,2024-04-01
+doomer-2024-03-ai-safety,2024,03,doomer,ai safety,ai-safety,1709251200,1711929600,2024-03-01,2024-04-01
+doomer-2024-03-alignment,2024,03,doomer,alignment,alignment,1709251200,1711929600,2024-03-01,2024-04-01
+doomer-2024-03-misalignment,2024,03,doomer,misalignment,misalignment,1709251200,1711929600,2024-03-01,2024-04-01
+doomer-2024-03-existential-risk,2024,03,doomer,existential risk,existential-risk,1709251200,1711929600,2024-03-01,2024-04-01
+doomer-2024-03-x-risk,2024,03,doomer,x-risk,x-risk,1709251200,1711929600,2024-03-01,2024-04-01
+doomer-2024-03-p-doom,2024,03,doomer,p(doom),p-doom,1709251200,1711929600,2024-03-01,2024-04-01
+accelerationist-2024-03-e-acc,2024,03,accelerationist,e/acc,e-acc,1709251200,1711929600,2024-03-01,2024-04-01
+accelerationist-2024-03-accelerationism,2024,03,accelerationist,accelerationism,accelerationism,1709251200,1711929600,2024-03-01,2024-04-01
+accelerationist-2024-03-techno-optimism,2024,03,accelerationist,techno-optimism,techno-optimism,1709251200,1711929600,2024-03-01,2024-04-01
+accelerationist-2024-03-abundance-agenda,2024,03,accelerationist,abundance agenda,abundance-agenda,1709251200,1711929600,2024-03-01,2024-04-01
+accelerationist-2024-03-abundance,2024,03,accelerationist,abundance,abundance,1709251200,1711929600,2024-03-01,2024-04-01
+broad_ai-2024-04-artificial-intelligence,2024,04,broad_ai,artificial intelligence,artificial-intelligence,1711929600,1714521600,2024-04-01,2024-05-01
+broad_ai-2024-04-machine-learning,2024,04,broad_ai,machine learning,machine-learning,1711929600,1714521600,2024-04-01,2024-05-01
+broad_ai-2024-04-deep-learning,2024,04,broad_ai,deep learning,deep-learning,1711929600,1714521600,2024-04-01,2024-05-01
+broad_ai-2024-04-neural-network,2024,04,broad_ai,neural network,neural-network,1711929600,1714521600,2024-04-01,2024-05-01
+foundation_models-2024-04-gpt,2024,04,foundation_models,gpt,gpt,1711929600,1714521600,2024-04-01,2024-05-01
+foundation_models-2024-04-llm,2024,04,foundation_models,llm,llm,1711929600,1714521600,2024-04-01,2024-05-01
+foundation_models-2024-04-chatgpt,2024,04,foundation_models,chatgpt,chatgpt,1711929600,1714521600,2024-04-01,2024-05-01
+foundation_models-2024-04-openai,2024,04,foundation_models,openai,openai,1711929600,1714521600,2024-04-01,2024-05-01
+foundation_models-2024-04-claude,2024,04,foundation_models,claude,claude,1711929600,1714521600,2024-04-01,2024-05-01
+foundation_models-2024-04-gemini,2024,04,foundation_models,gemini,gemini,1711929600,1714521600,2024-04-01,2024-05-01
+doomer-2024-04-ai-safety,2024,04,doomer,ai safety,ai-safety,1711929600,1714521600,2024-04-01,2024-05-01
+doomer-2024-04-alignment,2024,04,doomer,alignment,alignment,1711929600,1714521600,2024-04-01,2024-05-01
+doomer-2024-04-misalignment,2024,04,doomer,misalignment,misalignment,1711929600,1714521600,2024-04-01,2024-05-01
+doomer-2024-04-existential-risk,2024,04,doomer,existential risk,existential-risk,1711929600,1714521600,2024-04-01,2024-05-01
+doomer-2024-04-x-risk,2024,04,doomer,x-risk,x-risk,1711929600,1714521600,2024-04-01,2024-05-01
+doomer-2024-04-p-doom,2024,04,doomer,p(doom),p-doom,1711929600,1714521600,2024-04-01,2024-05-01
+accelerationist-2024-04-e-acc,2024,04,accelerationist,e/acc,e-acc,1711929600,1714521600,2024-04-01,2024-05-01
+accelerationist-2024-04-accelerationism,2024,04,accelerationist,accelerationism,accelerationism,1711929600,1714521600,2024-04-01,2024-05-01
+accelerationist-2024-04-techno-optimism,2024,04,accelerationist,techno-optimism,techno-optimism,1711929600,1714521600,2024-04-01,2024-05-01
+accelerationist-2024-04-abundance-agenda,2024,04,accelerationist,abundance agenda,abundance-agenda,1711929600,1714521600,2024-04-01,2024-05-01
+accelerationist-2024-04-abundance,2024,04,accelerationist,abundance,abundance,1711929600,1714521600,2024-04-01,2024-05-01
+broad_ai-2024-05-artificial-intelligence,2024,05,broad_ai,artificial intelligence,artificial-intelligence,1714521600,1717200000,2024-05-01,2024-06-01
+broad_ai-2024-05-machine-learning,2024,05,broad_ai,machine learning,machine-learning,1714521600,1717200000,2024-05-01,2024-06-01
+broad_ai-2024-05-deep-learning,2024,05,broad_ai,deep learning,deep-learning,1714521600,1717200000,2024-05-01,2024-06-01
+broad_ai-2024-05-neural-network,2024,05,broad_ai,neural network,neural-network,1714521600,1717200000,2024-05-01,2024-06-01
+foundation_models-2024-05-gpt,2024,05,foundation_models,gpt,gpt,1714521600,1717200000,2024-05-01,2024-06-01
+foundation_models-2024-05-llm,2024,05,foundation_models,llm,llm,1714521600,1717200000,2024-05-01,2024-06-01
+foundation_models-2024-05-chatgpt,2024,05,foundation_models,chatgpt,chatgpt,1714521600,1717200000,2024-05-01,2024-06-01
+foundation_models-2024-05-openai,2024,05,foundation_models,openai,openai,1714521600,1717200000,2024-05-01,2024-06-01
+foundation_models-2024-05-claude,2024,05,foundation_models,claude,claude,1714521600,1717200000,2024-05-01,2024-06-01
+foundation_models-2024-05-gemini,2024,05,foundation_models,gemini,gemini,1714521600,1717200000,2024-05-01,2024-06-01
+doomer-2024-05-ai-safety,2024,05,doomer,ai safety,ai-safety,1714521600,1717200000,2024-05-01,2024-06-01
+doomer-2024-05-alignment,2024,05,doomer,alignment,alignment,1714521600,1717200000,2024-05-01,2024-06-01
+doomer-2024-05-misalignment,2024,05,doomer,misalignment,misalignment,1714521600,1717200000,2024-05-01,2024-06-01
+doomer-2024-05-existential-risk,2024,05,doomer,existential risk,existential-risk,1714521600,1717200000,2024-05-01,2024-06-01
+doomer-2024-05-x-risk,2024,05,doomer,x-risk,x-risk,1714521600,1717200000,2024-05-01,2024-06-01
+doomer-2024-05-p-doom,2024,05,doomer,p(doom),p-doom,1714521600,1717200000,2024-05-01,2024-06-01
+accelerationist-2024-05-e-acc,2024,05,accelerationist,e/acc,e-acc,1714521600,1717200000,2024-05-01,2024-06-01
+accelerationist-2024-05-accelerationism,2024,05,accelerationist,accelerationism,accelerationism,1714521600,1717200000,2024-05-01,2024-06-01
+accelerationist-2024-05-techno-optimism,2024,05,accelerationist,techno-optimism,techno-optimism,1714521600,1717200000,2024-05-01,2024-06-01
+accelerationist-2024-05-abundance-agenda,2024,05,accelerationist,abundance agenda,abundance-agenda,1714521600,1717200000,2024-05-01,2024-06-01
+accelerationist-2024-05-abundance,2024,05,accelerationist,abundance,abundance,1714521600,1717200000,2024-05-01,2024-06-01
+broad_ai-2024-06-artificial-intelligence,2024,06,broad_ai,artificial intelligence,artificial-intelligence,1717200000,1719792000,2024-06-01,2024-07-01
+broad_ai-2024-06-machine-learning,2024,06,broad_ai,machine learning,machine-learning,1717200000,1719792000,2024-06-01,2024-07-01
+broad_ai-2024-06-deep-learning,2024,06,broad_ai,deep learning,deep-learning,1717200000,1719792000,2024-06-01,2024-07-01
+broad_ai-2024-06-neural-network,2024,06,broad_ai,neural network,neural-network,1717200000,1719792000,2024-06-01,2024-07-01
+foundation_models-2024-06-gpt,2024,06,foundation_models,gpt,gpt,1717200000,1719792000,2024-06-01,2024-07-01
+foundation_models-2024-06-llm,2024,06,foundation_models,llm,llm,1717200000,1719792000,2024-06-01,2024-07-01
+foundation_models-2024-06-chatgpt,2024,06,foundation_models,chatgpt,chatgpt,1717200000,1719792000,2024-06-01,2024-07-01
+foundation_models-2024-06-openai,2024,06,foundation_models,openai,openai,1717200000,1719792000,2024-06-01,2024-07-01
+foundation_models-2024-06-claude,2024,06,foundation_models,claude,claude,1717200000,1719792000,2024-06-01,2024-07-01
+foundation_models-2024-06-gemini,2024,06,foundation_models,gemini,gemini,1717200000,1719792000,2024-06-01,2024-07-01
+doomer-2024-06-ai-safety,2024,06,doomer,ai safety,ai-safety,1717200000,1719792000,2024-06-01,2024-07-01
+doomer-2024-06-alignment,2024,06,doomer,alignment,alignment,1717200000,1719792000,2024-06-01,2024-07-01
+doomer-2024-06-misalignment,2024,06,doomer,misalignment,misalignment,1717200000,1719792000,2024-06-01,2024-07-01
+doomer-2024-06-existential-risk,2024,06,doomer,existential risk,existential-risk,1717200000,1719792000,2024-06-01,2024-07-01
+doomer-2024-06-x-risk,2024,06,doomer,x-risk,x-risk,1717200000,1719792000,2024-06-01,2024-07-01
+doomer-2024-06-p-doom,2024,06,doomer,p(doom),p-doom,1717200000,1719792000,2024-06-01,2024-07-01
+accelerationist-2024-06-e-acc,2024,06,accelerationist,e/acc,e-acc,1717200000,1719792000,2024-06-01,2024-07-01
+accelerationist-2024-06-accelerationism,2024,06,accelerationist,accelerationism,accelerationism,1717200000,1719792000,2024-06-01,2024-07-01
+accelerationist-2024-06-techno-optimism,2024,06,accelerationist,techno-optimism,techno-optimism,1717200000,1719792000,2024-06-01,2024-07-01
+accelerationist-2024-06-abundance-agenda,2024,06,accelerationist,abundance agenda,abundance-agenda,1717200000,1719792000,2024-06-01,2024-07-01
+accelerationist-2024-06-abundance,2024,06,accelerationist,abundance,abundance,1717200000,1719792000,2024-06-01,2024-07-01
+broad_ai-2024-07-artificial-intelligence,2024,07,broad_ai,artificial intelligence,artificial-intelligence,1719792000,1722470400,2024-07-01,2024-08-01
+broad_ai-2024-07-machine-learning,2024,07,broad_ai,machine learning,machine-learning,1719792000,1722470400,2024-07-01,2024-08-01
+broad_ai-2024-07-deep-learning,2024,07,broad_ai,deep learning,deep-learning,1719792000,1722470400,2024-07-01,2024-08-01
+broad_ai-2024-07-neural-network,2024,07,broad_ai,neural network,neural-network,1719792000,1722470400,2024-07-01,2024-08-01
+foundation_models-2024-07-gpt,2024,07,foundation_models,gpt,gpt,1719792000,1722470400,2024-07-01,2024-08-01
+foundation_models-2024-07-llm,2024,07,foundation_models,llm,llm,1719792000,1722470400,2024-07-01,2024-08-01
+foundation_models-2024-07-chatgpt,2024,07,foundation_models,chatgpt,chatgpt,1719792000,1722470400,2024-07-01,2024-08-01
+foundation_models-2024-07-openai,2024,07,foundation_models,openai,openai,1719792000,1722470400,2024-07-01,2024-08-01
+foundation_models-2024-07-claude,2024,07,foundation_models,claude,claude,1719792000,1722470400,2024-07-01,2024-08-01
+foundation_models-2024-07-gemini,2024,07,foundation_models,gemini,gemini,1719792000,1722470400,2024-07-01,2024-08-01
+doomer-2024-07-ai-safety,2024,07,doomer,ai safety,ai-safety,1719792000,1722470400,2024-07-01,2024-08-01
+doomer-2024-07-alignment,2024,07,doomer,alignment,alignment,1719792000,1722470400,2024-07-01,2024-08-01
+doomer-2024-07-misalignment,2024,07,doomer,misalignment,misalignment,1719792000,1722470400,2024-07-01,2024-08-01
+doomer-2024-07-existential-risk,2024,07,doomer,existential risk,existential-risk,1719792000,1722470400,2024-07-01,2024-08-01
+doomer-2024-07-x-risk,2024,07,doomer,x-risk,x-risk,1719792000,1722470400,2024-07-01,2024-08-01
+doomer-2024-07-p-doom,2024,07,doomer,p(doom),p-doom,1719792000,1722470400,2024-07-01,2024-08-01
+accelerationist-2024-07-e-acc,2024,07,accelerationist,e/acc,e-acc,1719792000,1722470400,2024-07-01,2024-08-01
+accelerationist-2024-07-accelerationism,2024,07,accelerationist,accelerationism,accelerationism,1719792000,1722470400,2024-07-01,2024-08-01
+accelerationist-2024-07-techno-optimism,2024,07,accelerationist,techno-optimism,techno-optimism,1719792000,1722470400,2024-07-01,2024-08-01
+accelerationist-2024-07-abundance-agenda,2024,07,accelerationist,abundance agenda,abundance-agenda,1719792000,1722470400,2024-07-01,2024-08-01
+accelerationist-2024-07-abundance,2024,07,accelerationist,abundance,abundance,1719792000,1722470400,2024-07-01,2024-08-01
+broad_ai-2024-08-artificial-intelligence,2024,08,broad_ai,artificial intelligence,artificial-intelligence,1722470400,1725148800,2024-08-01,2024-09-01
+broad_ai-2024-08-machine-learning,2024,08,broad_ai,machine learning,machine-learning,1722470400,1725148800,2024-08-01,2024-09-01
+broad_ai-2024-08-deep-learning,2024,08,broad_ai,deep learning,deep-learning,1722470400,1725148800,2024-08-01,2024-09-01
+broad_ai-2024-08-neural-network,2024,08,broad_ai,neural network,neural-network,1722470400,1725148800,2024-08-01,2024-09-01
+foundation_models-2024-08-gpt,2024,08,foundation_models,gpt,gpt,1722470400,1725148800,2024-08-01,2024-09-01
+foundation_models-2024-08-llm,2024,08,foundation_models,llm,llm,1722470400,1725148800,2024-08-01,2024-09-01
+foundation_models-2024-08-chatgpt,2024,08,foundation_models,chatgpt,chatgpt,1722470400,1725148800,2024-08-01,2024-09-01
+foundation_models-2024-08-openai,2024,08,foundation_models,openai,openai,1722470400,1725148800,2024-08-01,2024-09-01
+foundation_models-2024-08-claude,2024,08,foundation_models,claude,claude,1722470400,1725148800,2024-08-01,2024-09-01
+foundation_models-2024-08-gemini,2024,08,foundation_models,gemini,gemini,1722470400,1725148800,2024-08-01,2024-09-01
+doomer-2024-08-ai-safety,2024,08,doomer,ai safety,ai-safety,1722470400,1725148800,2024-08-01,2024-09-01
+doomer-2024-08-alignment,2024,08,doomer,alignment,alignment,1722470400,1725148800,2024-08-01,2024-09-01
+doomer-2024-08-misalignment,2024,08,doomer,misalignment,misalignment,1722470400,1725148800,2024-08-01,2024-09-01
+doomer-2024-08-existential-risk,2024,08,doomer,existential risk,existential-risk,1722470400,1725148800,2024-08-01,2024-09-01
+doomer-2024-08-x-risk,2024,08,doomer,x-risk,x-risk,1722470400,1725148800,2024-08-01,2024-09-01
+doomer-2024-08-p-doom,2024,08,doomer,p(doom),p-doom,1722470400,1725148800,2024-08-01,2024-09-01
+accelerationist-2024-08-e-acc,2024,08,accelerationist,e/acc,e-acc,1722470400,1725148800,2024-08-01,2024-09-01
+accelerationist-2024-08-accelerationism,2024,08,accelerationist,accelerationism,accelerationism,1722470400,1725148800,2024-08-01,2024-09-01
+accelerationist-2024-08-techno-optimism,2024,08,accelerationist,techno-optimism,techno-optimism,1722470400,1725148800,2024-08-01,2024-09-01
+accelerationist-2024-08-abundance-agenda,2024,08,accelerationist,abundance agenda,abundance-agenda,1722470400,1725148800,2024-08-01,2024-09-01
+accelerationist-2024-08-abundance,2024,08,accelerationist,abundance,abundance,1722470400,1725148800,2024-08-01,2024-09-01
+broad_ai-2024-09-artificial-intelligence,2024,09,broad_ai,artificial intelligence,artificial-intelligence,1725148800,1727740800,2024-09-01,2024-10-01
+broad_ai-2024-09-machine-learning,2024,09,broad_ai,machine learning,machine-learning,1725148800,1727740800,2024-09-01,2024-10-01
+broad_ai-2024-09-deep-learning,2024,09,broad_ai,deep learning,deep-learning,1725148800,1727740800,2024-09-01,2024-10-01
+broad_ai-2024-09-neural-network,2024,09,broad_ai,neural network,neural-network,1725148800,1727740800,2024-09-01,2024-10-01
+foundation_models-2024-09-gpt,2024,09,foundation_models,gpt,gpt,1725148800,1727740800,2024-09-01,2024-10-01
+foundation_models-2024-09-llm,2024,09,foundation_models,llm,llm,1725148800,1727740800,2024-09-01,2024-10-01
+foundation_models-2024-09-chatgpt,2024,09,foundation_models,chatgpt,chatgpt,1725148800,1727740800,2024-09-01,2024-10-01
+foundation_models-2024-09-openai,2024,09,foundation_models,openai,openai,1725148800,1727740800,2024-09-01,2024-10-01
+foundation_models-2024-09-claude,2024,09,foundation_models,claude,claude,1725148800,1727740800,2024-09-01,2024-10-01
+foundation_models-2024-09-gemini,2024,09,foundation_models,gemini,gemini,1725148800,1727740800,2024-09-01,2024-10-01
+doomer-2024-09-ai-safety,2024,09,doomer,ai safety,ai-safety,1725148800,1727740800,2024-09-01,2024-10-01
+doomer-2024-09-alignment,2024,09,doomer,alignment,alignment,1725148800,1727740800,2024-09-01,2024-10-01
+doomer-2024-09-misalignment,2024,09,doomer,misalignment,misalignment,1725148800,1727740800,2024-09-01,2024-10-01
+doomer-2024-09-existential-risk,2024,09,doomer,existential risk,existential-risk,1725148800,1727740800,2024-09-01,2024-10-01
+doomer-2024-09-x-risk,2024,09,doomer,x-risk,x-risk,1725148800,1727740800,2024-09-01,2024-10-01
+doomer-2024-09-p-doom,2024,09,doomer,p(doom),p-doom,1725148800,1727740800,2024-09-01,2024-10-01
+accelerationist-2024-09-e-acc,2024,09,accelerationist,e/acc,e-acc,1725148800,1727740800,2024-09-01,2024-10-01
+accelerationist-2024-09-accelerationism,2024,09,accelerationist,accelerationism,accelerationism,1725148800,1727740800,2024-09-01,2024-10-01
+accelerationist-2024-09-techno-optimism,2024,09,accelerationist,techno-optimism,techno-optimism,1725148800,1727740800,2024-09-01,2024-10-01
+accelerationist-2024-09-abundance-agenda,2024,09,accelerationist,abundance agenda,abundance-agenda,1725148800,1727740800,2024-09-01,2024-10-01
+accelerationist-2024-09-abundance,2024,09,accelerationist,abundance,abundance,1725148800,1727740800,2024-09-01,2024-10-01
+broad_ai-2024-10-artificial-intelligence,2024,10,broad_ai,artificial intelligence,artificial-intelligence,1727740800,1730419200,2024-10-01,2024-11-01
+broad_ai-2024-10-machine-learning,2024,10,broad_ai,machine learning,machine-learning,1727740800,1730419200,2024-10-01,2024-11-01
+broad_ai-2024-10-deep-learning,2024,10,broad_ai,deep learning,deep-learning,1727740800,1730419200,2024-10-01,2024-11-01
+broad_ai-2024-10-neural-network,2024,10,broad_ai,neural network,neural-network,1727740800,1730419200,2024-10-01,2024-11-01
+foundation_models-2024-10-gpt,2024,10,foundation_models,gpt,gpt,1727740800,1730419200,2024-10-01,2024-11-01
+foundation_models-2024-10-llm,2024,10,foundation_models,llm,llm,1727740800,1730419200,2024-10-01,2024-11-01
+foundation_models-2024-10-chatgpt,2024,10,foundation_models,chatgpt,chatgpt,1727740800,1730419200,2024-10-01,2024-11-01
+foundation_models-2024-10-openai,2024,10,foundation_models,openai,openai,1727740800,1730419200,2024-10-01,2024-11-01
+foundation_models-2024-10-claude,2024,10,foundation_models,claude,claude,1727740800,1730419200,2024-10-01,2024-11-01
+foundation_models-2024-10-gemini,2024,10,foundation_models,gemini,gemini,1727740800,1730419200,2024-10-01,2024-11-01
+doomer-2024-10-ai-safety,2024,10,doomer,ai safety,ai-safety,1727740800,1730419200,2024-10-01,2024-11-01
+doomer-2024-10-alignment,2024,10,doomer,alignment,alignment,1727740800,1730419200,2024-10-01,2024-11-01
+doomer-2024-10-misalignment,2024,10,doomer,misalignment,misalignment,1727740800,1730419200,2024-10-01,2024-11-01
+doomer-2024-10-existential-risk,2024,10,doomer,existential risk,existential-risk,1727740800,1730419200,2024-10-01,2024-11-01
+doomer-2024-10-x-risk,2024,10,doomer,x-risk,x-risk,1727740800,1730419200,2024-10-01,2024-11-01
+doomer-2024-10-p-doom,2024,10,doomer,p(doom),p-doom,1727740800,1730419200,2024-10-01,2024-11-01
+accelerationist-2024-10-e-acc,2024,10,accelerationist,e/acc,e-acc,1727740800,1730419200,2024-10-01,2024-11-01
+accelerationist-2024-10-accelerationism,2024,10,accelerationist,accelerationism,accelerationism,1727740800,1730419200,2024-10-01,2024-11-01
+accelerationist-2024-10-techno-optimism,2024,10,accelerationist,techno-optimism,techno-optimism,1727740800,1730419200,2024-10-01,2024-11-01
+accelerationist-2024-10-abundance-agenda,2024,10,accelerationist,abundance agenda,abundance-agenda,1727740800,1730419200,2024-10-01,2024-11-01
+accelerationist-2024-10-abundance,2024,10,accelerationist,abundance,abundance,1727740800,1730419200,2024-10-01,2024-11-01
+broad_ai-2024-11-artificial-intelligence,2024,11,broad_ai,artificial intelligence,artificial-intelligence,1730419200,1733011200,2024-11-01,2024-12-01
+broad_ai-2024-11-machine-learning,2024,11,broad_ai,machine learning,machine-learning,1730419200,1733011200,2024-11-01,2024-12-01
+broad_ai-2024-11-deep-learning,2024,11,broad_ai,deep learning,deep-learning,1730419200,1733011200,2024-11-01,2024-12-01
+broad_ai-2024-11-neural-network,2024,11,broad_ai,neural network,neural-network,1730419200,1733011200,2024-11-01,2024-12-01
+foundation_models-2024-11-gpt,2024,11,foundation_models,gpt,gpt,1730419200,1733011200,2024-11-01,2024-12-01
+foundation_models-2024-11-llm,2024,11,foundation_models,llm,llm,1730419200,1733011200,2024-11-01,2024-12-01
+foundation_models-2024-11-chatgpt,2024,11,foundation_models,chatgpt,chatgpt,1730419200,1733011200,2024-11-01,2024-12-01
+foundation_models-2024-11-openai,2024,11,foundation_models,openai,openai,1730419200,1733011200,2024-11-01,2024-12-01
+foundation_models-2024-11-claude,2024,11,foundation_models,claude,claude,1730419200,1733011200,2024-11-01,2024-12-01
+foundation_models-2024-11-gemini,2024,11,foundation_models,gemini,gemini,1730419200,1733011200,2024-11-01,2024-12-01
+doomer-2024-11-ai-safety,2024,11,doomer,ai safety,ai-safety,1730419200,1733011200,2024-11-01,2024-12-01
+doomer-2024-11-alignment,2024,11,doomer,alignment,alignment,1730419200,1733011200,2024-11-01,2024-12-01
+doomer-2024-11-misalignment,2024,11,doomer,misalignment,misalignment,1730419200,1733011200,2024-11-01,2024-12-01
+doomer-2024-11-existential-risk,2024,11,doomer,existential risk,existential-risk,1730419200,1733011200,2024-11-01,2024-12-01
+doomer-2024-11-x-risk,2024,11,doomer,x-risk,x-risk,1730419200,1733011200,2024-11-01,2024-12-01
+doomer-2024-11-p-doom,2024,11,doomer,p(doom),p-doom,1730419200,1733011200,2024-11-01,2024-12-01
+accelerationist-2024-11-e-acc,2024,11,accelerationist,e/acc,e-acc,1730419200,1733011200,2024-11-01,2024-12-01
+accelerationist-2024-11-accelerationism,2024,11,accelerationist,accelerationism,accelerationism,1730419200,1733011200,2024-11-01,2024-12-01
+accelerationist-2024-11-techno-optimism,2024,11,accelerationist,techno-optimism,techno-optimism,1730419200,1733011200,2024-11-01,2024-12-01
+accelerationist-2024-11-abundance-agenda,2024,11,accelerationist,abundance agenda,abundance-agenda,1730419200,1733011200,2024-11-01,2024-12-01
+accelerationist-2024-11-abundance,2024,11,accelerationist,abundance,abundance,1730419200,1733011200,2024-11-01,2024-12-01
+broad_ai-2024-12-artificial-intelligence,2024,12,broad_ai,artificial intelligence,artificial-intelligence,1733011200,1735689600,2024-12-01,2025-01-01
+broad_ai-2024-12-machine-learning,2024,12,broad_ai,machine learning,machine-learning,1733011200,1735689600,2024-12-01,2025-01-01
+broad_ai-2024-12-deep-learning,2024,12,broad_ai,deep learning,deep-learning,1733011200,1735689600,2024-12-01,2025-01-01
+broad_ai-2024-12-neural-network,2024,12,broad_ai,neural network,neural-network,1733011200,1735689600,2024-12-01,2025-01-01
+foundation_models-2024-12-gpt,2024,12,foundation_models,gpt,gpt,1733011200,1735689600,2024-12-01,2025-01-01
+foundation_models-2024-12-llm,2024,12,foundation_models,llm,llm,1733011200,1735689600,2024-12-01,2025-01-01
+foundation_models-2024-12-chatgpt,2024,12,foundation_models,chatgpt,chatgpt,1733011200,1735689600,2024-12-01,2025-01-01
+foundation_models-2024-12-openai,2024,12,foundation_models,openai,openai,1733011200,1735689600,2024-12-01,2025-01-01
+foundation_models-2024-12-claude,2024,12,foundation_models,claude,claude,1733011200,1735689600,2024-12-01,2025-01-01
+foundation_models-2024-12-gemini,2024,12,foundation_models,gemini,gemini,1733011200,1735689600,2024-12-01,2025-01-01
+doomer-2024-12-ai-safety,2024,12,doomer,ai safety,ai-safety,1733011200,1735689600,2024-12-01,2025-01-01
+doomer-2024-12-alignment,2024,12,doomer,alignment,alignment,1733011200,1735689600,2024-12-01,2025-01-01
+doomer-2024-12-misalignment,2024,12,doomer,misalignment,misalignment,1733011200,1735689600,2024-12-01,2025-01-01
+doomer-2024-12-existential-risk,2024,12,doomer,existential risk,existential-risk,1733011200,1735689600,2024-12-01,2025-01-01
+doomer-2024-12-x-risk,2024,12,doomer,x-risk,x-risk,1733011200,1735689600,2024-12-01,2025-01-01
+doomer-2024-12-p-doom,2024,12,doomer,p(doom),p-doom,1733011200,1735689600,2024-12-01,2025-01-01
+accelerationist-2024-12-e-acc,2024,12,accelerationist,e/acc,e-acc,1733011200,1735689600,2024-12-01,2025-01-01
+accelerationist-2024-12-accelerationism,2024,12,accelerationist,accelerationism,accelerationism,1733011200,1735689600,2024-12-01,2025-01-01
+accelerationist-2024-12-techno-optimism,2024,12,accelerationist,techno-optimism,techno-optimism,1733011200,1735689600,2024-12-01,2025-01-01
+accelerationist-2024-12-abundance-agenda,2024,12,accelerationist,abundance agenda,abundance-agenda,1733011200,1735689600,2024-12-01,2025-01-01
+accelerationist-2024-12-abundance,2024,12,accelerationist,abundance,abundance,1733011200,1735689600,2024-12-01,2025-01-01

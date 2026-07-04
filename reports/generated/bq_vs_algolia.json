@@ -1,0 +1,23 @@
+{
+  "n_bq_unique": 271742,
+  "n_algolia_unique": 386166,
+  "n_intersect": 121048,
+  "n_bq_only": 150694,
+  "n_algolia_only": 265118,
+  "bq_recall_on_algolia": 0.31346105042909006,
+  "algolia_recall_on_bq": 0.44545193602755556,
+  "per_family": {
+    "bigquery": {
+      "accelerationist": 7335,
+      "broad_ai": 47851,
+      "doomer": 17743,
+      "foundation_models": 204760
+    },
+    "algolia": {
+      "accelerationist": 69756,
+      "broad_ai": 59401,
+      "doomer": 23121,
+      "foundation_models": 242434
+    }
+  }
+}

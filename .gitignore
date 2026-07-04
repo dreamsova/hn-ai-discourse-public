@@ -1,0 +1,31 @@
+# Editor / OS junk
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+.venv-ppt/
+venv/
+
+# Raw + intermediate corpora (re-created by the pipeline)
+data/raw/
+data/raw_phase*/
+data/clean/
+data/inference/
+
+# Slurm logs + scratch (Midway-side; not part of deliverable)
+logs/
+scratch/
+
+# Pipeline outputs — already-tracked CSV/JSON/PNG stay committed,
+# but the directory pattern stops new junk from being auto-added.
+outputs/
+manifests/*.txt
+queries/*.txt
+
+# Keep example fixtures + dir markers
+!.gitkeep
+!data/examples/
